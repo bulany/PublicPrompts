@@ -1,0 +1,5 @@
+Is there an accepted best (quickest, easiest, most efficient, most effective) technique for memorising phone numbers?
+I would like to see if I can remember 3 or 4 mobile phone numbers, but would also like to run it as an experiment to see if I can prove the effectiveness of the technique. 
+Could you outline how such an experiment should run... 
+I'm hoping it shouldn't take me more than 5 minutes per day (including any notetaking or experiment logging) and hopefully conclude with some concrete results within 2 to 4 weeks (if that is a reasonable time span).
+If there are different memorisation techniques to choose from I would prefer to try at least one that incorporates interleaved or spaced repetition or learning as I am still trying to somehow convince myself that breaks from learning are as important as the trying to learn itself.
