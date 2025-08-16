@@ -1,0 +1,1 @@
+The word "psalm" in english is quite weird.. it sounds a bit like "song" but is that where it comes from? Why is there a silent 'p'? The French word for the same thing is "psaume" which is equally weird in that it is not a typical French word also have a strange silent 'p'. Do you think the word was first integrated into french and then found its way into english?
