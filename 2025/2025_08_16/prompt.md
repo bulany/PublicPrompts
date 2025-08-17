@@ -1,0 +1,1 @@
+What are the origins of the english word 'song'? Its quite a bit different to the French word 'chanson'... are they from different roots?
