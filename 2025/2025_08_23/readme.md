@@ -1,0 +1,1 @@
+The french word for "psalm" is "psaume" which sounds quite similar to the english word "song" would there be any possibility that "pslam" is related to "song"?
