@@ -1,0 +1,3 @@
+Did Benjamin Franklin have children and was he ever married? 
+Can you give me a timeline of his life that includes significant events in his life, his relationship and changing attitudes with slavery and slave ownership but also details of his children and marriages?
+He published his routines for how to live and approach each day but was he able to pass these on to his children or people around him successfully and what were the results for them?
