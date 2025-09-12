@@ -1,0 +1,3 @@
+Let's say I'm developing something with vue.js and typescript that has a lot of local resources say in the 'public' directory... is there an easy way of deploying this app-in-development to an iphone for testing in a way that the app can run on the iPhone offline. 
+Like is there a way to run a node server or vite on an iphone and have it serve local content?
+What are some really nice turn key solutions that allow you to get an offline app up and running on an iphone quite quickly?
