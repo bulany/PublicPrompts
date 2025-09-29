@@ -1,0 +1,8 @@
+I think Dyson sells a product called an "air filter" or "air purifier" which filters out noxious particules from the air.
+Could one make the argument that a tree basically functions as an equivalent air purifier?
+If so, what are the specs of an "average" tree, as compared to a Dyson? Like could you make a litres per minute or hour comparison. Or maybe it would make sense to ask what size of tree would you need to get the equivalent function of a Dyson?
+Are trees the only source of oxygen on earth? Like if all the trees were to suddenly dissappear, how long would humans have before they couldn't survive anymore due to lack of oxygen?
+Is a tree's ability to consume carbon dioxide and produce oxygen directly related to the number of leaves it has? Does this mean in a place like Europe where there is a lot of decidious trees that all lose there leaves in winter that there is less oxygen around?
+In a place like a vast desert, is the amount of oxygen in the air directly dependent on there being enough trees elsewhere to produce oxygen for people to breathe?
+I guess this oxygen producing aspect of trees is largely invisible and maybe that's why it goes unnoticed - has anyone worked out anyway to make this kind of thing visible (e.g. any amazing videos, animations or movies that you know of?)
+If you had to try and communicate this and educate people about it do you have any great ideas about how to make an impactful message?
