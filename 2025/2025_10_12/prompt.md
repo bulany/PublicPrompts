@@ -1,0 +1,5 @@
+Imagine a single page app with a kind of 'holy grail' layout: a header (title), a footer and a middle section that takes up all the available screen height.
+Can you try and explain to me how this is easily achieved with flex box using the tailwindcss classes but also explain how those class names relate back to classic css properties... 
+I guess I would love a really clear and simple explanation of how flex box functions and which properties are important for achieving that kind of layout and then how they translate into tailwind css classes.
+I wonder if you could clearly explain overflow as well and how it relates to all this - obviously for the middle section of the app, it might grow to be very large but I want that to have its own scrollbar so that the footer always stays at the bottom of the screen.
+Is it strange that I have a lot of trouble understanding basic css page layouts? Are there any tricks I can use to really get an intuitive understanding of how these things all work together so that I can reliably go from a layout concept to a flexbox reality?
