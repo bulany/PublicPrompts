@@ -1,0 +1,3 @@
+In the context of all the literature you have read in all the different languages you have read it, what would you say are the three most important stories for humanity?
+Do you have an impression that there are some commonly occuring universal stories that get told and retold and never cease to fascinate people (or teach them something)?
+Or do you get the impression that the stories are infinite and always changing and its impossible to simplify things down at all?
