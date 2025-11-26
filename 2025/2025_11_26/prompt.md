@@ -1,0 +1,5 @@
+Can you explain to me the difference between a PWA and a situation where I use something like a combination of Svelte and capacitor?
+I like the idea of writing typescript instead of javascript, and I wonder if using Svelte and something like capacitor would make all the limitations I might experience with a PWA setup just magically dissappear...
+I would love for you to give me a rundown of how my workflow might look like with a setup like this... e.g. say if I wanted to make a few small code changes and add a new mp3 file... and then somehow quickly set up the app on my iPhone so I could test it offline for a few days.
+Does Capacitor allow for working with the iOS filesystem in a way that would make more sense for my app? 
+In an ideal world I would like to keep things super simple in the sense that I have say an mp3 file that I'm studying / learning at the moment and when I work in the app making annotations or other notes, the app is updating a simple json file that at any time I can just copy and provided it can link to a copy of the mp3 file I can use my app on another system to say make animations with that data or keep adding to the data or whatever.
