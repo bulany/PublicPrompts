@@ -1,0 +1,15 @@
+I would like to explore a personal workflow for learning and "knowledge management".
+I've been drawn to software like Obsidian - I like the way this is a really pleasant way to edit .md files which are just plain text files.
+I agree with that "files over apps" philosophy as I have found in my personal experience I have text files that I have kept going for probably over 20 years and a .txt file seems to be able to be read and edited by many systems.
+I think I would feel pretty trapped if I was editing a database in some weird unreadable format it feels like there would be a lot of inertia to overcome if I had to switch to a new computer or phone or something.
+But I've also just realised that maybe a pretty ideal workflow for me would be someting like developing a personal wikipedia.
+So I wondered is it feasable to get the actual wikipedia software system up and running on a mini PC on a local network that is working like a NAS with my personal media collection on it?
+I think I have seen on wikipedia sort of "compilation" pages like "7 September 2011" and they list all the important events on that day (or events that have wikipedia articles relating to them on it).
+I think ideally I would have a kind of personal wikipedia where every bit of content or learning I create is kind of documented in a page like this. 
+When I imagine this I think that it would be good because I could hopefully easily look back on days and years gone by and answer the question "what was I doing with my life?" or "what was I doing with my time?"
+I take a lot of photos on my phone and I have about 30GB of photos from the last 20 years stored on various hard drives... it would be amazing if I could type in "20th Feb 2014" to my personal wikipedia and see not only some things I wrote on that day but also all the photos I took or scanned... maybe even my web browsing history.
+What I like about wikipedia also is the change log and discussion pages... like I don't think I would use the discussion feature much but it would be awesome to see that well documented timeline of changes I have made to a document or to say a poem or something.
+I would even love to know that on a certain day I listened to a certain song in my digital music collection.
+It would be great to have a personally searchable log of my google searches. I do use the google search history and youtube history for this but I find they lack a bit of nuance when it comes to searching through them... and it would be great to see everything in one place with a clear timeline.
+These days I would even like a great way of storing the text prompts and responses of conversations I have like this with LLMs.
+With all this in mind could you compare these two approaches technologically (e.g. how does wikipedia work differently to obsidian, databases etc) and workflow wise and give me your thoughts about you might go about achieving my ideal scenario?
