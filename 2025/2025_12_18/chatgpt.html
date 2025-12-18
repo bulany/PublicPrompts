@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Pitch‑Rider (Line‑Rider‑inspired)</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: #0f0f12;
+      color: #eaeaf0;
+      font-family: system-ui, sans-serif;
+      overflow: hidden;
+    }
+    #ui {
+      position: fixed;
+      top: 12px;
+      left: 12px;
+      background: rgba(20,20,30,0.85);
+      border-radius: 12px;
+      padding: 12px 14px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.4);
+    }
+    button {
+      background: #3b82f6;
+      border: none;
+      color: white;
+      padding: 8px 12px;
+      border-radius: 8px;
+      font-size: 14px;
+      cursor: pointer;
+    }
+    canvas { display: block; }
+  </style>
+</head>
+<body>
+  <div id="ui">
+    <div style="font-weight:600; margin-bottom:6px;">🎵 Pitch‑Rider</div>
+    <button id="start">Enable Mic</button>
+    <div style="font-size:12px; opacity:0.8; margin-top:6px;">Sing or play a note</div>
+  </div>
+  <canvas id="c"></canvas>
+
+<script>
+// ---------------- Canvas setup ----------------
+const canvas = document.getElementById('c');
+const ctx = canvas.getContext('2d');
+function resize() {
+  canvas.width = window.innerWidth;
+  canvas.height = window.innerHeight;
+}
+window.addEventListener('resize', resize);
+resize();
+
+// ---------------- Simple rider physics ----------------
+const rider = {
+  x: 100,
+  y: canvas.height / 2,
+  vy: 0,
+};
+
+const gravity = 0.6;
+const stiffness = 0.08; // how strongly pitch pulls rider
+const damping = 0.92;
+
+let scrollX = 0;
+const trail = [];
+
+// ---------------- Pitch detection (autocorrelation / YIN‑lite) ----------------
+let audioCtx, analyser, buffer;
+
+function detectPitch(timeDomainData, sampleRate) {
+  const size = timeDomainData.length;
+  let rms = 0;
+  for (let i = 0; i < size; i++) rms += timeDomainData[i] ** 2;
+  rms = Math.sqrt(rms / size);
+  if (rms < 0.01) return null; // too quiet
+
+  let bestLag = -1;
+  let bestCorr = 0;
+
+  for (let lag = 20; lag < 1000; lag++) {
+    let corr = 0;
+    for (let i = 0; i < size - lag; i++) {
+      corr += timeDomainData[i] * timeDomainData[i + lag];
+    }
+    if (corr > bestCorr) {
+      bestCorr = corr;
+      bestLag = lag;
+    }
+  }
+
+  if (bestLag === -1) return null;
+  return sampleRate / bestLag;
+}
+
+// Map frequency to vertical position (log scale like musical pitch)
+function freqToY(freq) {
+  const minF = 80;   // ~E2
+  const maxF = 1000; // ~B5
+  const clamped = Math.max(minF, Math.min(maxF, freq));
+  const t = (Math.log(clamped) - Math.log(minF)) / (Math.log(maxF) - Math.log(minF));
+  return canvas.height * (0.85 - t * 0.7);
+}
+
+// ---------------- Animation loop ----------------
+function update(targetY) {
+  rider.vy += gravity;
+  if (targetY !== null) {
+    rider.vy += (targetY - rider.y) * stiffness;
+  }
+  rider.vy *= damping;
+  rider.y += rider.vy;
+
+  scrollX += 2.2;
+
+  trail.push({ x: scrollX, y: rider.y });
+  if (trail.length > 2000) trail.shift();
+}
+
+function draw() {
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+  // Ground / pitch path
+  ctx.strokeStyle = '#6ee7b7';
+  ctx.lineWidth = 2;
+  ctx.beginPath();
+  for (let i = 0; i < trail.length; i++) {
+    const px = trail[i].x - scrollX + rider.x;
+    if (i === 0) ctx.moveTo(px, trail[i].y);
+    else ctx.lineTo(px, trail[i].y);
+  }
+  ctx.stroke();
+
+  // Rider
+  ctx.fillStyle = '#facc15';
+  ctx.beginPath();
+  ctx.arc(rider.x, rider.y, 8, 0, Math.PI * 2);
+  ctx.fill();
+
+  // Scarf
+  ctx.strokeStyle = '#ef4444';
+  ctx.beginPath();
+  ctx.moveTo(rider.x - 8, rider.y);
+  ctx.lineTo(rider.x - 28, rider.y - rider.vy * 0.8);
+  ctx.stroke();
+}
+
+function loop() {
+  let targetY = null;
+  if (analyser) {
+    analyser.getFloatTimeDomainData(buffer);
+    const freq = detectPitch(buffer, audioCtx.sampleRate);
+    if (freq) targetY = freqToY(freq);
+  }
+  update(targetY);
+  draw();
+  requestAnimationFrame(loop);
+}
+loop();
+
+// ---------------- Audio init ----------------
+document.getElementById('start').onclick = async () => {
+  audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+  const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+  const src = audioCtx.createMediaStreamSource(stream);
+  analyser = audioCtx.createAnalyser();
+  analyser.fftSize = 2048;
+  buffer = new Float32Array(analyser.fftSize);
+  src.connect(analyser);
+};
+</script>
+</body>
+</html>

@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pitch Rider</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+            color: white;
+            padding: 20px;
+        }
+        #container {
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 20px;
+            padding: 20px;
+            backdrop-filter: blur(10px);
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+            max-width: 1200px;
+            width: 100%;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+        }
+        #canvas {
+            display: block;
+            width: 100%;
+            background: linear-gradient(to bottom, #87ceeb 0%, #e0f6ff 100%);
+            border-radius: 10px;
+            cursor: crosshair;
+        }
+        #controls {
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+            margin-top: 20px;
+            flex-wrap: wrap;
+        }
+        button {
+            padding: 12px 24px;
+            font-size: 16px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            background: white;
+            color: #667eea;
+            font-weight: bold;
+            transition: all 0.3s;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+        }
+        button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            transform: none;
+        }
+        #info {
+            text-align: center;
+            margin-top: 15px;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+        .pitch-display {
+            font-size: 24px;
+            font-weight: bold;
+            margin-top: 10px;
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <h1>🎵 Pitch Rider 🛷</h1>
+        <canvas id="canvas" width="1000" height="500"></canvas>
+        <div id="controls">
+            <button id="demoBtn">▶ Play Demo (Twinkle Twinkle)</button>
+            <button id="micBtn">🎤 Start Microphone</button>
+            <button id="stopBtn" disabled>⏹ Stop</button>
+            <button id="clearBtn">🗑 Clear Track</button>
+        </div>
+        <div id="info">
+            <div class="pitch-display" id="pitchDisplay">Ready to ride! 🎶</div>
+            <div>
+                <strong>How to use:</strong> Click "Play Demo" to see Twinkle Twinkle, or use your microphone to sing/play and control the rider with pitch!
+                <br>Higher notes = higher jumps. Try singing scales or melodies!
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const canvas = document.getElementById('canvas');
+        const ctx = canvas.getContext('2d');
+        const demoBtn = document.getElementById('demoBtn');
+        const micBtn = document.getElementById('micBtn');
+        const stopBtn = document.getElementById('stopBtn');
+        const clearBtn = document.getElementById('clearBtn');
+        const pitchDisplay = document.getElementById('pitchDisplay');
+
+        // Twinkle Twinkle Little Star melody (MIDI note numbers)
+        const twinkleMelody = [
+            60, 60, 67, 67, 69, 69, 67,  // Twinkle twinkle little star
+            65, 65, 64, 64, 62, 62, 60,  // How I wonder what you are
+            67, 67, 65, 65, 64, 64, 62,  // Up above the world so high
+            67, 67, 65, 65, 64, 64, 62,  // Like a diamond in the sky
+            60, 60, 67, 67, 69, 69, 67,  // Twinkle twinkle little star
+            65, 65, 64, 64, 62, 62, 60   // How I wonder what you are
+        ];
+
+        // Rider state
+        let rider = {
+            x: 100,
+            y: 250,
+            vx: 3,
+            vy: 0,
+            targetY: 250,
+            scarf: []
+        };
+
+        // Track points (x, y pairs representing the terrain)
+        let track = [];
+        let isDrawing = false;
+        let lastX = 0;
+
+        // Audio context and pitch detection
+        let audioContext;
+        let analyser;
+        let microphone;
+        let isListening = false;
+        let isDemoPlaying = false;
+        let demoIndex = 0;
+        let demoInterval;
+
+        // Initialize scarf trail
+        for (let i = 0; i < 15; i++) {
+            rider.scarf.push({ x: rider.x, y: rider.y });
+        }
+
+        function noteToY(midiNote) {
+            // Map MIDI notes to Y position (inverted because canvas Y increases downward)
+            // Range from C3 (48) to C6 (84) maps to canvas height
+            const minNote = 48;
+            const maxNote = 84;
+            const minY = 400;
+            const maxY = 100;
+            
+            const normalized = (midiNote - minNote) / (maxNote - minNote);
+            return minY - (normalized * (minY - maxY));
+        }
+
+        function frequencyToMidi(frequency) {
+            return 69 + 12 * Math.log2(frequency / 440);
+        }
+
+        function midiToNoteName(midi) {
+            const notes = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B'];
+            const octave = Math.floor(midi / 12) - 1;
+            const note = notes[Math.round(midi) % 12];
+            return `${note}${octave}`;
+        }
+
+        function drawRider() {
+            // Draw scarf trail
+            ctx.strokeStyle = 'rgba(255, 100, 100, 0.6)';
+            ctx.lineWidth = 3;
+            ctx.lineCap = 'round';
+            ctx.beginPath();
+            ctx.moveTo(rider.scarf[0].x, rider.scarf[0].y);
+            for (let i = 1; i < rider.scarf.length; i++) {
+                ctx.lineTo(rider.scarf[i].x, rider.scarf[i].y);
+            }
+            ctx.stroke();
+
+            // Draw sled
+            ctx.fillStyle = '#8B4513';
+            ctx.beginPath();
+            ctx.ellipse(rider.x, rider.y + 10, 20, 8, 0, 0, Math.PI * 2);
+            ctx.fill();
+
+            // Draw rider body
+            ctx.fillStyle = '#2c3e50';
+            ctx.beginPath();
+            ctx.arc(rider.x, rider.y - 5, 12, 0, Math.PI * 2);
+            ctx.fill();
+
+            // Draw rider head
+            ctx.fillStyle = '#f39c12';
+            ctx.beginPath();
+            ctx.arc(rider.x, rider.y - 20, 8, 0, Math.PI * 2);
+            ctx.fill();
+
+            // Draw simple face
+            ctx.fillStyle = 'black';
+            ctx.beginPath();
+            ctx.arc(rider.x - 3, rider.y - 21, 1.5, 0, Math.PI * 2);
+            ctx.fill();
+            ctx.beginPath();
+            ctx.arc(rider.x + 3, rider.y - 21, 1.5, 0, Math.PI * 2);
+            ctx.fill();
+        }
+
+        function drawTrack() {
+            if (track.length < 2) return;
+            
+            ctx.strokeStyle = '#34495e';
+            ctx.lineWidth = 4;
+            ctx.lineCap = 'round';
+            ctx.lineJoin = 'round';
+            ctx.beginPath();
+            ctx.moveTo(track[0].x, track[0].y);
+            for (let i = 1; i < track.length; i++) {
+                ctx.lineTo(track[i].x, track[i].y);
+            }
+            ctx.stroke();
+        }
+
+        function updateRider() {
+            // Smooth movement toward target Y
+            const diff = rider.targetY - rider.y;
+            rider.vy += diff * 0.05;
+            rider.vy *= 0.85; // Damping for smooth motion
+            
+            rider.y += rider.vy;
+            rider.x += rider.vx;
+
+            // Update scarf trail
+            rider.scarf.unshift({ x: rider.x, y: rider.y - 10 });
+            if (rider.scarf.length > 15) {
+                rider.scarf.pop();
+            }
+
+            // Wrap around screen
+            if (rider.x > canvas.width + 50) {
+                rider.x = -50;
+            }
+        }
+
+        function animate() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            
+            // Draw ground reference line
+            ctx.strokeStyle = 'rgba(0, 0, 0, 0.1)';
+            ctx.lineWidth = 1;
+            for (let i = 100; i <= 400; i += 50) {
+                ctx.beginPath();
+                ctx.moveTo(0, i);
+                ctx.lineTo(canvas.width, i);
+                ctx.stroke();
+            }
+
+            drawTrack();
+            updateRider();
+            drawRider();
+            
+            requestAnimationFrame(animate);
+        }
+
+        function addTrackPoint(midiNote) {
+            const y = noteToY(midiNote);
+            const x = lastX;
+            track.push({ x, y });
+            lastX += 15;
+            
+            // Keep track manageable
+            if (track.length > 200) {
+                track.shift();
+                // Shift all track points left
+                track.forEach(pt => pt.x -= 15);
+                lastX -= 15;
+            }
+        }
+
+        function setPitch(midiNote) {
+            rider.targetY = noteToY(midiNote);
+            const noteName = midiToNoteName(midiNote);
+            pitchDisplay.textContent = `🎵 ${noteName} (${Math.round(midiNote)})`;
+        }
+
+        // Demo playback
+        function playDemo() {
+            isDemoPlaying = true;
+            demoIndex = 0;
+            demoBtn.disabled = true;
+            micBtn.disabled = true;
+            stopBtn.disabled = false;
+            track = [];
+            lastX = 0;
+            
+            pitchDisplay.textContent = '🎵 Playing: Twinkle Twinkle Little Star';
+            
+            demoInterval = setInterval(() => {
+                if (demoIndex >= twinkleMelody.length) {
+                    stopDemo();
+                    return;
+                }
+                
+                const note = twinkleMelody[demoIndex];
+                setPitch(note);
+                addTrackPoint(note);
+                demoIndex++;
+            }, 400);
+        }
+
+        function stopDemo() {
+            isDemoPlaying = false;
+            if (demoInterval) {
+                clearInterval(demoInterval);
+            }
+            demoBtn.disabled = false;
+            micBtn.disabled = false;
+            stopBtn.disabled = true;
+            pitchDisplay.textContent = 'Demo finished! 🎶';
+        }
+
+        // Simple autocorrelation pitch detection
+        function autoCorrelate(buffer, sampleRate) {
+            let size = buffer.length;
+            let maxSamples = Math.floor(size / 2);
+            let bestOffset = -1;
+            let bestCorrelation = 0;
+            let rms = 0;
+
+            for (let i = 0; i < size; i++) {
+                rms += buffer[i] * buffer[i];
+            }
+            rms = Math.sqrt(rms / size);
+            
+            if (rms < 0.01) return -1; // Not enough signal
+
+            let lastCorrelation = 1;
+            for (let offset = 1; offset < maxSamples; offset++) {
+                let correlation = 0;
+                for (let i = 0; i < maxSamples; i++) {
+                    correlation += Math.abs(buffer[i] - buffer[i + offset]);
+                }
+                correlation = 1 - (correlation / maxSamples);
+                
+                if (correlation > 0.9 && correlation > lastCorrelation) {
+                    let foundGoodCorrelation = false;
+                    if (correlation > bestCorrelation) {
+                        bestCorrelation = correlation;
+                        bestOffset = offset;
+                        foundGoodCorrelation = true;
+                    }
+                    if (foundGoodCorrelation) {
+                        const shift = (buffer[offset] - buffer[offset - 1]) / 
+                                    (2 * (2 * buffer[offset] - buffer[offset - 1] - buffer[offset + 1]));
+                        return sampleRate / (offset + shift);
+                    }
+                }
+                lastCorrelation = correlation;
+            }
+            
+            if (bestCorrelation > 0.01) {
+                return sampleRate / bestOffset;
+            }
+            return -1;
+        }
+
+        function updatePitch() {
+            if (!isListening) return;
+
+            const bufferLength = analyser.fftSize;
+            const buffer = new Float32Array(bufferLength);
+            analyser.getFloatTimeDomainData(buffer);
+
+            const frequency = autoCorrelate(buffer, audioContext.sampleRate);
+            
+            if (frequency > 0 && frequency > 80 && frequency < 1000) {
+                const midi = frequencyToMidi(frequency);
+                setPitch(midi);
+                addTrackPoint(midi);
+            }
+
+            requestAnimationFrame(updatePitch);
+        }
+
+        async function startMicrophone() {
+            try {
+                audioContext = new (window.AudioContext || window.webkitAudioContext)();
+                analyser = audioContext.createAnalyser();
+                analyser.fftSize = 2048;
+
+                const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+                microphone = audioContext.createMediaStreamSource(stream);
+                microphone.connect(analyser);
+
+                isListening = true;
+                micBtn.disabled = true;
+                demoBtn.disabled = true;
+                stopBtn.disabled = false;
+                track = [];
+                lastX = 0;
+                
+                pitchDisplay.textContent = '🎤 Listening... Sing or play a note!';
+                updatePitch();
+            } catch (err) {
+                alert('Microphone access denied or not available: ' + err.message);
+                pitchDisplay.textContent = '❌ Microphone error';
+            }
+        }
+
+        function stopMicrophone() {
+            isListening = false;
+            if (microphone) {
+                microphone.disconnect();
+                microphone.mediaStream.getTracks().forEach(track => track.stop());
+            }
+            if (audioContext) {
+                audioContext.close();
+            }
+            micBtn.disabled = false;
+            demoBtn.disabled = false;
+            stopBtn.disabled = true;
+            pitchDisplay.textContent = '🎵 Microphone stopped';
+        }
+
+        function clearTrack() {
+            track = [];
+            lastX = 0;
+            pitchDisplay.textContent = 'Track cleared! ✨';
+        }
+
+        demoBtn.addEventListener('click', playDemo);
+        micBtn.addEventListener('click', startMicrophone);
+        stopBtn.addEventListener('click', () => {
+            if (isDemoPlaying) {
+                stopDemo();
+            } else {
+                stopMicrophone();
+            }
+        });
+        clearBtn.addEventListener('click', clearTrack);
+
+        animate();
+    </script>
+</body>
+</html>

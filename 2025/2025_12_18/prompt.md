@@ -1,0 +1,10 @@
+I once saw a youtube video of something called "line rider" where an little animated sled riding guy with a trailing scarf "rode" and jumped over the notes of a famous piece of classical music.
+It was really fun to watch and gave a great visualisation of the rhythm of the music and maybe even the pitches of the melody.
+I was wondering how open source the line rider software is and whether it might be possible to somehow use it to create a tool that helps visualise the concept of musical pitch... specifically the feeling of notes that are higher than others and notes that are lower... and their relative degrees of how much higher.
+I'm imagining a very well known tune like "twinkle twinkle little star" and would love to see a line rider animation of it which kind of shows you the guy jumping between the intervals of the notes and somehow we get the idea that when the intervals are greater, he's making more of an effort to make the leap up in the big jumps going up... and if the melody is like a decending scale down then he's kind of just bouncing down the stairs that are close together. 
+Wow its almost like I'm imagining a cross between Jack Stratton's visual score of Marvyn Gaye's "Aint no mountain high enough" visualisation and line rider.
+Well anyway, hopefully that gives you an idea of what I'm after... oh and here's the important thing: I would like to then make this so that using a realtime stream of a microphone and say a YIN pitch algorithm, we can play or sing a melody and have the line rider making these leaps and bounds and really get the feel of controlling him with pitch like a really call platform game.
+So yeah, that little character of the line rider and the physics that make him so charming to watch, how open source is that and could it be hooked up to a realtime pitch recognition algorithm?
+Would this kind of thing be possible in a one page html file application?
+Could you have a go at it?
+Many thanks!
