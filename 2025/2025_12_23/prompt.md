@@ -1,0 +1,1 @@
+Where do sites like flightaware.com get their flight tracking data from? Are there publicly available sources that they query?
