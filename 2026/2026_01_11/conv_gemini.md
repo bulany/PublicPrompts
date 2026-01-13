@@ -83,3 +83,6 @@ Now we will modify the startup sequence.
 You haven't touched the `void loop()` part of the code, which is where the robot checks the IR remote and handles the A/B/C modes. You only changed the `setup()`, which runs exactly once when you turn the power on.
 
 **Would you like me to provide a slightly longer version of the song, or perhaps the "Main Theme" (Hero's theme) instead of the Imperial March?**
+
+# Prompt 2
+The version I want is the "Factory Firmware (06.01.009)"... can you help me to find this or would there be anyway to "extract" whatever is the downloaded program/firmware I currently have loaded on the mbot?
