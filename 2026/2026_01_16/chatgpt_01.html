@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>France Trip Itinerary Visualiser</title>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="https://unpkg.com/topojson-client@3"></script>
+
+<style>
+  body {
+    margin: 0;
+    font-family: system-ui, sans-serif;
+    background: #f7f7f7;
+  }
+
+  header {
+    padding: 10px 16px;
+    background: white;
+    border-bottom: 1px solid #ddd;
+    display: flex;
+    gap: 12px;
+    align-items: center;
+  }
+
+  button {
+    padding: 6px 12px;
+    cursor: pointer;
+  }
+
+  .tab.active {
+    background: #333;
+    color: white;
+  }
+
+  #container {
+    display: grid;
+    grid-template-columns: 1.2fr 1fr;
+    height: calc(100vh - 50px);
+  }
+
+  #map {
+    background: white;
+  }
+
+  #right {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    gap: 10px;
+  }
+
+  #calendar {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 4px;
+  }
+
+  .day {
+    border: 1px solid #ccc;
+    padding: 6px;
+    min-height: 50px;
+    font-size: 12px;
+  }
+
+  .weekend {
+    background: #fafafa;
+  }
+
+  .trip-day {
+    border: 2px solid #333;
+  }
+
+  .current-day {
+    background: #ffe08a;
+  }
+
+  #controls {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+  }
+
+  #status {
+    font-weight: bold;
+  }
+
+  @media (max-width: 800px) {
+    #container {
+      grid-template-columns: 1fr;
+      grid-template-rows: 1fr 1fr;
+    }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <button class="tab active" data-option="A">Option A</button>
+  <button class="tab" data-option="B">Option B</button>
+  <button id="play">▶ Play</button>
+  <input id="slider" type="range" min="0" max="11" value="0" />
+  <span id="status"></span>
+</header>
+
+<div id="container">
+  <svg id="map"></svg>
+  <div id="right">
+    <h3>August 2026</h3>
+    <div id="calendar"></div>
+  </div>
+</div>
+
+<script>
+/* ------------------------
+   Data
+------------------------ */
+
+const places = {
+  Lyon: [4.8357, 45.7640],
+  Ternand: [4.5276, 45.9379],
+  Carcassonne: [2.3522, 43.2130],
+  "Vallon-Pont-d’Arc": [4.3946, 44.4074],
+  Paris: [2.3522, 48.8566],
+  Geneva: [6.1432, 46.2044],
+  Chamonix: [6.8694, 45.9237]
+};
+
+const options = {
+  A: [
+    "Arrive in Lyon",
+    "Drive to Carcassonne",
+    "Carcassonne",
+    "Carcassonne",
+    "Drive to Ardèche",
+    "Ardèche",
+    "Ardèche",
+    "Drive to Ternand",
+    "Ternand",
+    "Ternand – lunch",
+    "Drive to Lyon",
+    "Lyon"
+  ],
+  B: [
+    "Drive to Ternand",
+    "Ternand",
+    "Ternand – lunch",
+    "Drive to Carcassonne",
+    "Carcassonne",
+    "Carcassonne",
+    "Drive to Ardèche",
+    "Ardèche",
+    "Ardèche",
+    "Drive to Lyon",
+    "Lyon",
+    "Lyon"
+  ]
+};
+
+const routePlaces = ["Lyon", "Ternand", "Carcassonne", "Vallon-Pont-d’Arc"];
+
+/* ------------------------
+   Map
+------------------------ */
+
+const svg = d3.select("#map");
+const width = svg.node().clientWidth;
+const height = svg.node().clientHeight;
+svg.attr("viewBox", `0 0 ${width} ${height}`);
+
+const projection = d3.geoMercator()
+  .center([2.5, 46.5])
+  .scale(2200)
+  .translate([width / 2, height / 2]);
+
+const path = d3.geoPath(projection);
+
+d3.json("https://cdn.jsdelivr.net/npm/world-atlas@2/countries-50m.json")
+  .then(world => {
+    const france = topojson.feature(world, world.objects.countries)
+      .features.find(d => d.id === 250);
+
+    svg.append("path")
+      .attr("d", path(france))
+      .attr("fill", "#eee")
+      .attr("stroke", "#333");
+
+    drawPlaces();
+    drawRoute();
+  });
+
+function drawPlaces() {
+  Object.entries(places).forEach(([name, coords]) => {
+    const [x, y] = projection(coords);
+
+    svg.append("circle")
+      .attr("cx", x)
+      .attr("cy", y)
+      .attr("r", 4)
+      .attr("fill", ["Paris","Geneva","Chamonix"].includes(name) ? "#999" : "#000");
+
+    svg.append("text")
+      .attr("x", x + 6)
+      .attr("y", y + 4)
+      .text(name)
+      .attr("font-size", 11);
+  });
+}
+
+function drawRoute() {
+  const route = [
+    places.Lyon,
+    places.Ternand,
+    places.Carcassonne,
+    places["Vallon-Pont-d’Arc"],
+    places.Ternand,
+    places.Lyon
+  ];
+
+  svg.append("path")
+    .datum(route)
+    .attr("fill", "none")
+    .attr("stroke", "#d33")
+    .attr("stroke-width", 2)
+    .attr("marker-end", "url(#arrow)")
+    .attr("d", d3.line()
+      .x(d => projection(d)[0])
+      .y(d => projection(d)[1])
+    );
+}
+
+/* ------------------------
+   Calendar
+------------------------ */
+
+const calendar = d3.select("#calendar");
+const start = new Date(2026, 7, 1); // August
+const firstMondayOffset = (start.getDay() + 6) % 7;
+
+for (let i = 0; i < firstMondayOffset; i++) {
+  calendar.append("div");
+}
+
+for (let d = 1; d <= 31; d++) {
+  const date = new Date(2026, 7, d);
+  const day = calendar.append("div")
+    .attr("class", "day")
+    .classed("weekend", date.getDay() === 0 || date.getDay() === 6)
+    .classed("trip-day", d >= 20 && d <= 31)
+    .attr("id", `day-${d}`);
+
+  day.append("div").text(d);
+}
+
+/* ------------------------
+   Playback
+------------------------ */
+
+let option = "A";
+let index = 0;
+let timer = null;
+
+function update() {
+  d3.selectAll(".day").classed("current-day", false);
+  d3.select(`#day-${20 + index}`).classed("current-day", true);
+  document.getElementById("status").textContent = options[option][index];
+  document.getElementById("slider").value = index;
+}
+
+document.getElementById("play").onclick = () => {
+  if (timer) clearInterval(timer);
+  timer = setInterval(() => {
+    index++;
+    if (index >= options[option].length) {
+      clearInterval(timer);
+      timer = null;
+      return;
+    }
+    update();
+  }, 1000);
+};
+
+document.getElementById("slider").oninput = e => {
+  if (timer) clearInterval(timer);
+  index = +e.target.value;
+  update();
+};
+
+d3.selectAll(".tab").on("click", function () {
+  d3.selectAll(".tab").classed("active", false);
+  d3.select(this).classed("active", true);
+  option = this.dataset.option;
+  index = 0;
+  update();
+});
+
+update();
+</script>
+
+</body>
+</html>
