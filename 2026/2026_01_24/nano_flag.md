@@ -8,9 +8,9 @@ having the aboriginal flag but instead of the yellow sun as a circle in the midd
 I guess I'm thinking the most difficult part is the opinion I've heard that "soldiers fought and died" under a certain flag and so they are always going to be attached to that.
 Hmmm but I like to think that there could be something possible.
 Could you give it your best shot?
-Also I understand there might be some copyright issues with just using the aboriginal flag outright.![[nano_flag.png]]
+Also I understand there might be some copyright issues with just using the aboriginal flag outright.![[2026/2026_01_24/nano_flag.png]]
 
 
 # Prompt 2
 Ok they are nice... what about this... imagining that even people of British and English heritage eventually get back to some kind of celtic mythology that was kind of paved over by empire... can you make some kind of a flag image that is like two hands embracing in a handshake but it is one side aboriginal symbology and on the other side some kind of native european symbology that somehow merges in the middle. Hmmm I guess it would be lovely if the flag also carried the symbolic message of 'always was, always will be (aboriginal land)'... like the flag should show that everything that exists in australia now is forged out of the thousands of years of care that aboriginal people showed for the country. Oh boy... could it somehow show an acknowledgement of the terrible injustices of colonisation, land theft and the stolen generations of children... wow how can you wrap that all into a simplified flag image?
-![[nano_flag_02.png]]
+![[2026/2026_01_24/nano_flag_02.png]]
