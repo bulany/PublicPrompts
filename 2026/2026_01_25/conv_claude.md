@@ -121,3 +121,66 @@ The hypothesis: Grievance B should feel lighter, occupy less mental real estate,
 The beautiful thing about your muscle analogy is that it's more accurate than you might realize. With push-ups, you don't start by doing your max—you start with wall push-ups or knee push-ups. With forgiveness, you don't start with the person who most deeply betrayed you. You start with the person who was mildly thoughtless last Tuesday. And just like with push-ups, some days you'll have more capacity than others, and that's completely normal.
 
 The fact that saying "I forgive you" feels hollow is actually a good sign—it means you're being honest with yourself about where you actually are in the process. Real forgiveness is built through smaller, genuine releases, not through forcing yourself to feel something you don't.
+
+# Prompt 2
+Ok this all sounds pretty reasonable. What about 'role models' or 'inspirations'... with other disciplines like sports we can always point to a few hero's, virtuosos and heavy weights. If forgiveness is a skill, who holds the current emotional deadlift record? Can you give me a list of five contendors?
+
+# Response 2
+What a brilliant question. This really tests whether we're talking about a genuine skill or just a vague virtue. Here are five contenders for the "emotional deadlift record":
+
+## 1. **Immaculée Ilibagiza** (Rwandan Genocide Survivor)
+
+**The lift**: During the 1994 Rwandan genocide, Immaculée hid in a 3x4 foot bathroom with seven other women for 91 days while genocidaires hunted for them. Her entire family was murdered—her mother, father, and two brothers were killed with machetes. After emerging, she eventually came face-to-face with the man who killed her mother and brother.
+
+**The forgiveness**: She forgave him. Not in some abstract, distant way—she visited him in prison, told him she forgave him, and touched his hands. She describes the process in her book _Left to Tell_: it took months of prayer and internal work, and she describes it as the hardest thing she ever did. She says she felt physically lighter afterward, like a weight had been removed.
+
+**Why she's a contender**: The sheer magnitude of the loss and brutality, combined with the direct, personal nature of the forgiveness. She also describes her _method_—specific practices of prayer, perspective-taking, and repeated choice—which supports the skill framework.
+
+## 2. **Eva Kor** (Auschwitz Survivor)
+
+**The lift**: Eva and her twin sister Miriam were subjected to Josef Mengele's medical experiments at Auschwitz as children. Her parents and older sisters were murdered in the gas chambers. She carried physical and psychological scars for decades.
+
+**The forgiveness**: In 1995, at a commemoration at Auschwitz, she publicly read a declaration of forgiveness for the Nazis. This was monumentally controversial—many survivors felt she had no right to forgive on behalf of the dead. But Eva was clear: "I forgave the Nazis not because they deserve it, but because I deserve peace." She later met and befriended a former Nazi doctor, Hans Münch, who had worked at Auschwitz.
+
+**Why she's a contender**: She forgave without any apology, remorse, or acknowledgment from most perpetrators (many were dead). She explicitly framed forgiveness as _self-liberation_—a practical tool, not a moral stance. She also spent the rest of her life teaching others how to forgive, suggesting she genuinely understood it as a technique.
+
+## 3. **Thích Nhất Hạnh** (Vietnamese Zen Master)
+
+**The lift**: During the Vietnam War, Thích Nhất Hạnh lost students, colleagues, and saw his country devastated. His School of Youth for Social Service—which rebuilt bombed villages—was caught between both sides of the war. Members were killed by both communist and anti-communist forces. He was exiled from Vietnam for 39 years for his peace activism.
+
+**The forgiveness**: He practiced and taught what he called "deep listening" and "loving speech" even toward those who had caused immense suffering. He wrote about forgiving the pirate who raped a young girl on a refugee boat—not the act, but the person, understanding the pirate's own suffering and conditioning. He advocated for reconciliation between Vietnamese people and Americans while memories were still fresh.
+
+**Why he's a contender**: He developed and taught _systematic methods_ for cultivating forgiveness—specific meditation practices, breathing techniques, perspective-taking exercises. He treated it explicitly as a skill with a training regimen. The fact that he created reproducible practices that others could follow is strong evidence for the skill model.
+
+## 4. **Azim Khamisa and Ples Felix** (Joined by Shared Tragedy)
+
+**The lift**: In 1995, 20-year-old Azim's son Tariq, a college student delivering pizzas, was shot and killed by 14-year-old Tony Hicks in a gang initiation. Ples Felix was Tony's grandfather and guardian.
+
+**The forgiveness**: Within months, Azim reached out to Ples. Rather than blame each other, they recognized they'd both lost their boys—one to murder, one to prison. They founded the Tariq Khamisa Foundation together to work on gang violence prevention. When Tony was released from prison after 25 years, Azim embraced him. The three now work together.
+
+**Why he's a contender**: Azim documented his process carefully—he talks about the specific moment he made the decision to forgive (six weeks after the murder), the practices he used (meditation, reframing, choosing to see Tony as a victim of societal violence too), and how it changed over time. The fact that he moved from forgiveness to _collaboration_ with the grandfather of his son's killer is an extraordinary demonstration of the skill's practical application.
+
+## 5. **Marina Cantacuzino** (The Forgiveness Project Founder)
+
+**The lift**: This one's a bit different. Marina isn't famous for forgiving a single massive harm to herself. Instead, she spent 20 years collecting and documenting stories of people who've forgiven extreme harms—terrorism, murder, rape, torture, genocide.
+
+**Why she's a contender**: She's essentially the **researcher/coach of the field**. Through hundreds of interviews, she's identified patterns in how people actually achieve forgiveness. Her work shows that forgiveness isn't random or mystical—there are common practices, stages, and methods. If forgiveness is a skill, she's like the person who studied all the Olympic weightlifters to understand the biomechanics. Her book _Radical Forgiveness_ and The Forgiveness Project archive are essentially the field's training manual.
+
+---
+
+**What's remarkable across all these cases:**
+
+- None of them say forgiveness happened instantly or easily
+- All describe it as a _process_ with specific practices
+- Most emphasize that forgiveness was for their own liberation, not the perpetrator's benefit
+- Several went on to teach their methods to others, suggesting they understood it as transferable skill
+- None of them forgot or condoned what happened
+- Most maintained that justice and accountability were still important
+
+If you want to watch the "film footage" of these lifts, I'd suggest:
+
+- Eva Kor's TEDx talk "Surviving the Angel of Death"
+- The documentary _As We Forgive_ (about Rwandan reconciliation, featuring people with stories similar to Immaculée's)
+- Any interview with Azim Khamisa and Ples Felix together—watching them interact is striking
+
+The fact that we _can_ point to exemplars, that they describe methods, and that others have learned from them—that's pretty strong evidence for the skill framework.

@@ -384,3 +384,180 @@ If you want, next we could:
     
 
 You’re asking exactly the right questions.
+
+## Prompt 2
+Ok this all sounds pretty reasonable. What about 'role models' or 'inspirations'... with other disciplines like sports we can always point to a few hero's and heavy weights. If forgiveness is a skill, who holds the current emotional deadlift record? Can you give me a list of five contendors?
+
+# Response 2
+Ha — “the emotional deadlift record” is a _great_ phrase 😄  
+I like this question because it forces us to be concrete instead of floating in abstractions.
+
+One quick framing move before the list, though, because it matters:
+
+There is **no single leaderboard** for forgiveness the way there is for lifting or sprinting. Different people lifted _different kinds of weight_:
+
+- public vs private harm
+    
+- one-time acts vs ongoing oppression
+    
+- interpersonal betrayal vs systemic violence
+    
+- forgiving _without_ reconciliation vs forgiving _with_ it
+    
+
+So instead of “the strongest,” think **different weight classes and lifts**. With that in mind, here are five very serious contenders.
+
+---
+
+## 1. Nelson Mandela — _The max-weight, long-duration hold_
+
+**Lift:** 27 years of imprisonment → political reconciliation  
+**Why he’s on the list:** This is probably the heaviest _publicly verifiable_ forgiveness feat on record.
+
+Mandela emerged from prison without seeking revenge, and instead:
+
+- invited former enemies into governance,
+    
+- explicitly framed forgiveness as _strategic and moral_,
+    
+- resisted enormous pressure to retaliate.
+    
+
+Important nuance:  
+Mandela did **not** deny harm, forget, or skip accountability. He supported truth-telling (Truth and Reconciliation Commission) _before_ forgiveness.
+
+**What makes this elite-level skill, not sainthood:**
+
+- He spoke openly about _training himself_ not to hate.
+    
+- He framed resentment as something that would _continue the imprisonment_.
+    
+
+That’s textbook “forgiveness as self-liberation,” not moral posturing.
+
+---
+
+## 2. Viktor Frankl — _The internal, no-witness lift_
+
+**Lift:** Forgiveness without power, justice, or closure  
+**Why he’s on the list:** He practiced forgiveness **entirely internally**, under extreme conditions.
+
+As a Holocaust survivor and psychiatrist, Frankl didn’t forgive specific perpetrators in a sentimental way — instead, he:
+
+- refused to let suffering dictate his inner stance,
+    
+- emphasized meaning-making over resentment,
+    
+- described forgiveness as a _freedom of attitude_.
+    
+
+His move was radical:
+
+> “They can take everything except how I choose to relate to this.”
+
+That’s forgiveness stripped down to **pure agency**, with no applause and no reconciliation.
+
+---
+
+## 3. The Amish community of Nickel Mines — _The speed record_
+
+**Lift:** Immediate forgiveness after extreme violence  
+**Why they’re on the list:** In 2006, after a school shooting killed five Amish girls, the community:
+
+- publicly forgave the shooter within days,
+    
+- supported the shooter’s family,
+    
+- refused retaliatory narratives.
+    
+
+This is controversial, and rightly so. But as a _skill demonstration_, it’s extraordinary.
+
+Key point:  
+This wasn’t spontaneous emotion — it was **pre-trained forgiveness**.  
+They had a culture of _daily low-intensity reps_, which allowed a high-intensity response.
+
+That maps exactly onto your “deliberate practice” idea.
+
+---
+
+## 4. Desmond Tutu — _The facilitator’s lift_
+
+**Lift:** Holding others’ unforgiveness without collapsing into it  
+**Why he’s on the list:** Tutu wasn’t just forgiving personally — he was **coaching forgiveness at scale**.
+
+As chair of South Africa’s Truth and Reconciliation Commission, he:
+
+- absorbed others’ rage and grief daily,
+    
+- insisted on truth before forgiveness,
+    
+- framed forgiveness as a way to avoid being “trapped in the past.”
+    
+
+This is a different muscle entirely:
+
+> Forgiving _while staying emotionally open_ to other people’s pain.
+
+That’s like lifting heavy _and_ spotting someone else at the same time.
+
+---
+
+## 5. Fred Luskin (the quiet pro) — _The reproducibility champion_
+
+**Lift:** Making forgiveness teachable and repeatable  
+**Why he’s on the list:** Not the most dramatic story, but arguably the most _important_ for your framing.
+
+Luskin:
+
+- operationalized forgiveness into small cognitive steps,
+    
+- showed it could be trained in ordinary people,
+    
+- demonstrated measurable reductions in stress, anger, and rumination.
+    
+
+This is like turning elite Olympic technique into a beginner program that actually works.
+
+If forgiveness is a skill, Luskin helped write the **Starting Strength** manual.
+
+---
+
+## Honorable mentions (different lifts, still impressive)
+
+- **Eva Mozes Kor** — forgave Nazi doctors who experimented on her as a child (deeply controversial, deeply personal).
+    
+- **Gordon Wilson** — forgave the IRA bomber who killed his daughter _on live TV_.
+    
+- **Thich Nhat Hanh** — forgiveness as moment-to-moment mindfulness practice.
+    
+
+---
+
+## One last important calibration
+
+None of these people:
+
+- forgave instantly _without training_,
+    
+- confused forgiveness with forgetting,
+    
+- suggested forgiveness is mandatory or owed.
+    
+
+What they share is this:
+
+> **They treated resentment as something that could be worked with, not obeyed.**
+
+That’s the core of the “skill” framing.
+
+If you want, next we could:
+
+- analyze **one of these figures using the 4-step model** from earlier,
+    
+- design a **“forgiveness progression ladder”** (beginner → intermediate → advanced),
+    
+- or look at **anti-role-models** — cases where _not forgiving_ was adaptive.
+    
+
+Just say the word.
