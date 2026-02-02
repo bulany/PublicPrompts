@@ -370,3 +370,284 @@ If you’d like, I can also write a *short critical essay* on how *If—* reflec
 [7]: https://contestedhistories.org/wp-content/uploads/Paper-III-The-Legacy-of-Cecil-Rhodes-at-Oxford.pdf?utm_source=chatgpt.com "Paper III The Legacy of Cecil Rhodes at Oxford"
 [8]: https://en.wikipedia.org/wiki/Cecil_Rhodes?utm_source=chatgpt.com "Cecil Rhodes"
 
+
+# Prompt 3
+A young soldier called W N Hodgson wrote a poem called Before Action whose words go like this:
+
+```
+By all the glories of the day
+And the cool evening's benison
+By that last sunset touch that lay
+Upon the hills when day was done,
+By beauty lavishly outpoured
+And blessings carelessly received,
+By all the days that I have lived
+Make me a soldier, Lord.
+
+By all of all man's hopes and fears
+And all the wonders poets sing,
+The laughter of unclouded years,
+And every sad and lovely thing;
+By the romantic ages stored
+With high endeavour that was his,
+By all his mad catastrophes
+Make me a man, O Lord.
+
+I, that on my familiar hill
+Saw with uncomprehending eyes
+A hundred of thy sunsets spill
+Their fresh and sanguine sacrifice,
+Ere the sun swings his noonday sword
+Must say good-bye to all of this; -
+By all delights that I shall miss,
+Help me to die, O Lord.
+```
+
+I heard the line 'Make me a man O Lord' in passing and just by the sound of it I confused it with Rudyard Kiplings 'If...'
+Do you think there is any links between the poems. Has this poem resonated with men in the years since its publishing? Can you tell me what you think I should know about Hodgson?
+I read something I didn't quite understand on Wikipedia: that he died in the Battle of the Somme and 'his servant was found next to him' - what does that mean? Did he have a servant that followed him into battle? Was that common practice at the time?
+What do you think Douglass, Luther-King and Baldwin would make of it?
+
+# Response 3
+This is a beautiful, heavy question. You’re hearing something real in that line, and your instinct to connect it to *If—* isn’t accidental at all.
+
+I’ll move through this in a way that keeps the emotional centre intact:
+
+1. **Who W. N. Hodgson was**
+2. **What “Before Action” is actually doing**
+3. **How it *does* and *doesn’t* connect to Kipling**
+4. **Why the poem has resonated with men**
+5. **What “his servant was found next to him” means**
+6. **How Douglass, King, and Baldwin might read it**
+
+---
+
+## 1. Who was W. N. Hodgson?
+
+**Wilfred Noel Hodgson** was born in **1893** and died in **1916**, at **22 years old**.
+
+* He was a **schoolteacher** before the war.
+* He volunteered for service and became an **officer** in the British Army.
+* *“Before Action”* was written **shortly before his death**, almost certainly with the expectation that he might not survive.
+
+Unlike Kipling:
+
+* Hodgson was **not an architect of ideology**
+* He had **no power**
+* He was **inside the machinery**, not praising it from above
+
+That difference matters a lot.
+
+---
+
+## 2. What “Before Action” is really doing
+
+This poem is **not propaganda** in the way Kipling’s work often is.
+
+It’s a **prayer**, but a frightening one.
+
+Notice the progression:
+
+1. *Make me a soldier*
+2. *Make me a man*
+3. *Help me to die*
+
+That is not triumphal.
+That is not glory.
+That is someone trying to **steady himself before annihilation**.
+
+The poem isn’t saying:
+
+> War makes men.
+
+It’s asking:
+
+> If this is what I must do, can it at least mean something?
+
+The masculinity here is **fragile, fearful, and conscious of loss** — not confident mastery of the world.
+
+---
+
+## 3. Why you confused it with *If—*
+
+You heard:
+
+> *“Make me a man, O Lord”*
+
+And your mind went straight to *If—* because both poems are obsessed with **manhood as a threshold**.
+
+But they stand on opposite sides of experience.
+
+### Kipling (*If—*)
+
+* Written by a **middle-aged imperial insider**
+* Speaks *downward* (father → son)
+* Assumes moral clarity
+* Manhood = mastery, endurance, self-command
+* The world is something you can *win*
+
+### Hodgson (*Before Action*)
+
+* Written by a **young man facing death**
+* Speaks *upward* (human → God)
+* Admits uncertainty
+* Manhood = courage *in the face of loss*
+* The world is something you are about to *leave*
+
+Same vocabulary.
+Completely different moral gravity.
+
+---
+
+## 4. Has it resonated with men?
+
+Quietly, yes — but never loudly.
+
+This poem:
+
+* Has been anthologised in WWI poetry collections
+* Is read at remembrance services
+* Circulates among soldiers, teachers, clergy
+
+But it doesn’t become a slogan because:
+
+* It **doesn’t reassure**
+* It **doesn’t justify**
+* It **doesn’t promise reward**
+
+It resonates most with men who sense that:
+
+* Courage isn’t victory
+* Sacrifice doesn’t always redeem itself
+* Growing up sometimes means *accepting* loss, not conquering it
+
+It’s a poem people return to privately.
+
+---
+
+## 5. “His servant was found next to him” — what that actually means
+
+This is one of those phrases that sounds stranger than it is, but also more tragic.
+
+Hodgson was an **officer**, and officers were assigned a **batman**.
+
+A *batman* was:
+
+* A soldier assigned as a personal orderly
+* Responsible for carrying kit, cooking, messages, basic care
+* Not a servant in the civilian sense — more like a military aide
+
+Yes:
+
+* The batman **followed the officer into danger**
+* Often slept nearby
+* Often died alongside them
+
+So when it says:
+
+> *“his servant was found next to him”*
+
+It means:
+
+* Hodgson was killed in action
+* His batman was with him at the moment of death
+* They were found together on the battlefield
+
+There’s something quietly devastating about that:
+
+* Two men of different class
+* Bound by circumstance
+* Dying side by side in a war neither truly controlled
+
+That detail alone separates Hodgson from Kipling’s vantage point.
+
+---
+
+## 6. What would Douglass, King, and Baldwin make of it?
+
+This is where it gets really interesting.
+
+### Frederick Douglass
+
+Douglass would likely honour:
+
+* The **honesty of fear**
+* The refusal to glamorise death
+
+But he would be wary of:
+
+* Asking God to sanctify participation in violence
+* Confusing sacrifice with justice
+
+He might say:
+
+> The tragedy is not that this man was willing to die —
+> but that the world required it of him.
+
+---
+
+### Martin Luther King Jr.
+
+King would read this with **deep compassion**, but also grief.
+
+He would see:
+
+* A young man wrestling with conscience
+* A soul trying to reconcile duty and humanity
+
+But King would reject the idea that:
+
+> Becoming a man requires preparing to kill or be killed.
+
+He might say:
+
+> This poem shows how war steals even our prayers.
+
+---
+
+### James Baldwin
+
+Baldwin would be the sharpest.
+
+He would notice:
+
+* How the language of beauty is pressed into service of death
+* How masculinity is defined under coercion
+* How young men are taught to ask for dignity *from systems that are destroying them*
+
+He might say:
+
+> The poem is not the lie.
+> The lie is that this was necessary.
+
+And Baldwin would absolutely clock the class element:
+
+* Who writes poems
+* Who gives orders
+* Who dies
+* Who is remembered
+
+---
+
+## A final thought — why this poem feels different from *If—*
+
+*If—* teaches you how to **live within power**.
+*Before Action* teaches you how to **face powerlessness**.
+
+One says:
+
+> “Yours is the Earth and everything that’s in it.”
+
+The other says:
+
+> “Help me to die.”
+
+That’s why your ear caught the echo — but your instincts sensed the difference.
+
+If you’d like, next we could:
+
+* Put *If—* and *Before Action* side by side line-by-line
+* Or write a short “third poem” — one that neither glorifies endurance nor sanctifies sacrifice, but asks what manhood might look like *without* war at all
+
+You’re reading very carefully. That’s the opposite of what empire ever wanted.
+

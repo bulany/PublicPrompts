@@ -241,3 +241,108 @@ The evidence suggests yes.
 
 
 This suggests that in the end, Kipling realized that the "truth" he had been selling—the glory of Empire and the nobility of sacrifice—was the lie that killed his son.
+
+# Prompt 3
+A young soldier called W N Hodgson wrote a poem called Before Action whose words go like this:
+
+```
+By all the glories of the day
+And the cool evening's benison
+By that last sunset touch that lay
+Upon the hills when day was done,
+By beauty lavishly outpoured
+And blessings carelessly received,
+By all the days that I have lived
+Make me a soldier, Lord.
+
+By all of all man's hopes and fears
+And all the wonders poets sing,
+The laughter of unclouded years,
+And every sad and lovely thing;
+By the romantic ages stored
+With high endeavour that was his,
+By all his mad catastrophes
+Make me a man, O Lord.
+
+I, that on my familiar hill
+Saw with uncomprehending eyes
+A hundred of thy sunsets spill
+Their fresh and sanguine sacrifice,
+Ere the sun swings his noonday sword
+Must say good-bye to all of this; -
+By all delights that I shall miss,
+Help me to die, O Lord.
+```
+
+I heard the line 'Make me a man O Lord' in passing and just by the sound of it I confused it with Rudyard Kiplings 'If...'
+Do you think there is any links between the poems. Has this poem resonated with men in the years since its publishing? Can you tell me what you think I should know about Hodgson?
+I read something I didn't quite understand on Wikipedia: that he died in the Battle of the Somme and 'his servant was found next to him' - what does that mean? Did he have a servant that followed him into battle? Was that common practice at the time?
+What do you think Douglass, Luther-King and Baldwin would make of it?
+
+# Response 3
+This is a hauntingly beautiful poem, and your confusion between this and Kipling is not only understandable, it is deeply perceptive.
+
+You have stumbled upon the **"Before" and "After"** of the British Imperial mindset.
+
+If Kipling’s "If—" was the **theory** (the instruction manual given to a boy), Hodgson’s "Before Action" is the **practice** (the final prayer of that boy once he has grown up and been sent to the slaughter).
+
+Here is the context on Hodgson, the explanation of the "servant" (which is indeed a jarring detail for modern readers), and how our "Council" of Baldwin, Douglass, and King might react.
+
+### 1. The Connection: "Make me a Man"
+
+You are right to hear echoes of Kipling. The two poems are spiritual siblings, but they look in opposite directions.
+
+* **Kipling’s "If—" (1910):** Written by an older man safe at home. It is a checklist of requirements. It promises that *if* you repress your emotions and work hard, you will become a "Man" and inherit the Earth. It is arrogant and confident.
+* **Hodgson’s "Before Action" (1916):** Written by a 23-year-old man sitting in a trench, days before a massive offensive. He knows he is likely to die. He isn't asking for the Earth; he is pleading for the strength to lose it gracefully.
+
+The line **"Make me a man, O Lord"** in Hodgson's poem is not about dominance. It is a desperate plea for composure. He is terrified. He is asking God to help him not to break down, run away, or cry in his final moments. He wants to die with the "Stiff Upper Lip" that Kipling taught him to value.
+
+### 2. The "Servant" Mystery
+
+You read that Hodgson was found dead with his "servant" next to him. This is a crucial detail of the British class system in WWI.
+
+**Did he bring a butler to war?**
+Not exactly, but effectively, yes. In the British Army of 1914–1918, every officer (who were almost exclusively from the upper classes, like Hodgson) was assigned a soldier-servant called a **Batman**.
+
+* **The Role:** The Batman's job was to act as a valet to the officer. He polished his boots, cleaned his uniform, brought him tea, dug his personal dugout, and packed his kit.
+* **The Bond:** While it sounds incredibly elitist (and it was), the relationship often became deeply intimate. In the trenches, the class barrier blurred. They relied on each other for survival.
+* **The Death:** Hodgson’s batman was **Private Thomas Pride**. The fact that they were found side-by-side suggests they stayed together until the very end. The officer led the charge, and his "servant" followed him into the machine gun fire out of duty, loyalty, or simple lack of choice.
+
+### 3. W.N. Hodgson: The Timeline of a Tragedy
+
+William Noel Hodgson was the archetypal "Golden Boy" that Kipling’s poem was written for.
+
+* **The Scholar:** He was a brilliant student at Oxford, an athlete, and a poet.
+* **The Soldier:** When war broke out, he volunteered immediately. He won the Military Cross for bravery in 1915.
+* **The Poem:** He wrote "Before Action" on **June 29, 1916**. He knew the "Big Push" (The Battle of the Somme) was coming in two days. He looked at the sunset and felt he was saying goodbye to the world.
+* **The End:** On **July 1, 1916** (the first day of the Somme), he led his men over the top near a place called Mametz. He was killed by machine-gun fire almost instantly. He was 23.
+
+### 4. What would the "Council" think?
+
+If we brought Martin Luther King Jr., Frederick Douglass, and James Baldwin into a room to read this poem, their reactions might be distinct from their reaction to Kipling.
+
+**Frederick Douglass**
+Douglass, who understood the mechanics of servitude better than anyone, would likely fixate on **Private Pride** (the servant).
+
+> *"There is a tragedy here that the poet does not see. He asks God to make him a 'man' while he stands on the shoulders of another man who cleans his boots. They died in the same mud, pierced by the same bullets, yet history remembers the poet and forgets the servant. Death is the only true equalizer this system ever allowed them."*
+
+**Martin Luther King Jr.**
+King might be deeply moved by the sorrow of the poem but horrified by the theology.
+
+> *"It breaks my heart to hear a young man pray not for peace, but for the strength to die killing others. He sees the 'sunsets' and 'beauty lavishly outpoured'—God's creation—and yet feels duty-bound to leave it. This is the great sin of war: it convinces sweet-spirited young men that the highest form of courage is self-destruction."*
+
+**James Baldwin**
+Baldwin might see Hodgson as a victim of the very "lie" Kipling told.
+
+> *"Here is the bill coming due. Kipling told them the Earth would be theirs, but this boy knows the only thing that is his is the grave. The 'uncomprehending eyes' he speaks of? That is the most honest line in the poem. He is doing what he was told he must do to be a 'Man,' and it is killing him. He is a beautiful, tragic fool, caught in a burning house built by his fathers."*
+
+### Summary
+
+"Before Action" is the heartbreaking receipt for the transaction proposed in "If—".
+
+Kipling said: "Do this, and you'll be a Man."
+Hodgson replied: "I am doing it, Lord help me, and now I have to die."
+
+---
+
+**Would you like me to find the name of the "servant" (Private Pride) on the Commonwealth War Graves records to see if he is buried next to Hodgson, or would you prefer to explore a poem by someone who survived this battle and took a very different view (like Siegfried Sassoon)?**

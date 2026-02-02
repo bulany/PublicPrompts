@@ -287,3 +287,115 @@ When John died (1915):
 The tragedy is that Kipling lived 21 more years after John's death, never knowing his son's fate, never fundamentally questioning the imperial system that consumed him.
 
 Your instinct is absolutely right: the poem's "virtues" can serve evil as easily as good. That's its blind spot, and its danger.
+
+# Prompt 3
+A young soldier called W N Hodgson wrote a poem called Before Action whose words go like this:
+
+```
+By all the glories of the day
+And the cool evening's benison
+By that last sunset touch that lay
+Upon the hills when day was done,
+By beauty lavishly outpoured
+And blessings carelessly received,
+By all the days that I have lived
+Make me a soldier, Lord.
+
+By all of all man's hopes and fears
+And all the wonders poets sing,
+The laughter of unclouded years,
+And every sad and lovely thing;
+By the romantic ages stored
+With high endeavour that was his,
+By all his mad catastrophes
+Make me a man, O Lord.
+
+I, that on my familiar hill
+Saw with uncomprehending eyes
+A hundred of thy sunsets spill
+Their fresh and sanguine sacrifice,
+Ere the sun swings his noonday sword
+Must say good-bye to all of this; -
+By all delights that I shall miss,
+Help me to die, O Lord.
+```
+
+I heard the line 'Make me a man O Lord' in passing and just by the sound of it I confused it with Rudyard Kiplings 'If...'
+Do you think there is any links between the poems. Has this poem resonated with men in the years since its publishing? Can you tell me what you think I should know about Hodgson?
+I read something I didn't quite understand on Wikipedia: that he died in the Battle of the Somme and 'his servant was found next to him' - what does that mean? Did he have a servant that followed him into battle? Was that common practice at the time?
+What do you think Douglass, Luther-King and Baldwin would make of it?
+
+# Response 3
+Let me search for information about W N Hodgson and this poem.Now let me search for information about his servant and what that meant.Now let me search specifically for what happened to Hodgson and his servant.Excellent! Now I have the full picture. Let me craft a comprehensive response.
+
+## What You Should Know About W.N. Hodgson
+
+William Noel Hodgson was born January 3, 1893, the son of a bishop, and was known as "Smiler" to his friends. He attended Durham School and then Oxford's Christ Church, where he took a first in Classical Moderations in 1913.
+
+"Before Action" was published on June 29, 1916—just two days before Hodgson died on the first day of the Battle of the Somme. His battalion was ordered to advance across a downward slope in full view of German trenches on three sides. They knew how slender their chances were.
+
+Hodgson was bombing officer, responsible for keeping men supplied with grenades during the attack. Within an hour, he was killed while taking grenades to men in newly captured trenches. He was 23 years old.
+
+In the two decades following his death, Hodgson was one of the best-known war poets. His posthumous collection sold out in weeks and went into three editions within months. But unlike Owen or Sassoon who survived to shape their own legacies, Hodgson's fame gradually faded.
+
+## About His "Servant"
+
+Yes, every WWI British officer was assigned a "soldier-servant" officially, though the term "batman" replaced this in the inter-war years. The batman was usually chosen by the officer from among his men.
+
+The batman's duties included: caring for the officer's kit, cooking, cleaning, and serving as a runner to relay orders. But crucially, batmen accompanied officers into forward positions, sharing the same risks—during active engagements they performed tasks like retrieving wounded or repairing infrastructure under bombardment, and they fought alongside their officers when formations engaged in assault or defense.
+
+This wasn't like a modern CEO's assistant staying safe in an office. Batmen served as runners relaying verbal orders across battlefields, a duty that incurred high mortality rates comparable to frontline infantry.
+
+**What happened to Hodgson:** At the end of the day, 159 bodies were found including Lieutenant Hodgson and his batman, who was lying by his side. Hodgson was shot in the leg and neck; his batman, who rushed to his aid, was also shot and killed.
+
+They're buried together at Devonshire Cemetery, Mansell Copse, along with 161 other men from the Devonshire Regiment, under a memorial that reads: "The Devonshires held this trench. The Devonshires hold it still."
+
+## Links Between "Before Action" and Kipling's "If—"
+
+You're right to sense a connection! Both poems:
+- Use the imperative/prayer form to instruct young men
+- Emphasize stoic virtues: courage, endurance, dignity in facing death
+- Were written by men of privilege addressing what it means to "be a man"
+- Became iconic expressions of British masculine ideals
+
+**But there are crucial differences:**
+
+**"If—"** (1910) was written *before* the carnage, by a 45-year-old established writer, inspired by an imperial adventurer who *survived* his failures and became celebrated.
+
+**"Before Action"** (1916) was written *during* the slaughter, by a 23-year-old about to die, with full knowledge of what was coming.
+
+Kipling's poem promises: work hard enough and "yours is the Earth and everything that's in it."
+
+Hodgson's poem asks only: "Help me to die, O Lord."
+
+## Why It Resonates With Men
+
+The poem reflects a particularly public school sense of duty—asking God to make him a soldier and a man, with fatalism from a young man in his twenties who knew his chances of survival were slim.
+
+It appeals because it:
+- **Acknowledges beauty and loss** — "by all delights that I shall miss"
+- **Doesn't pretend death is glorious** — just asks for courage to face it
+- **Combines vulnerability with resolve** — it's a prayer, not a boast
+- **Feels true** — he wrote it knowing he'd likely die, and then he did
+
+Unlike "If—" which can feel like advice from someone who's never really suffered, "Before Action" is written from the edge of the abyss. Young men respond to that honesty.
+
+## What Would Douglass, King, and Baldwin Think?
+
+This is fascinating to consider:
+
+**Frederick Douglass** might appreciate Hodgson's courage while recognizing the tragic irony: a young man praying for courage to die in service of the British Empire—the same empire that had defended slavery, that Douglass spent his life fighting. Douglass might ask: "Where is the prayer to make you question *why* you're being asked to die?"
+
+**Martin Luther King Jr.** would likely see the poem as evidence of how systems exploit the noblest human virtues. The willingness to sacrifice, to face death with dignity—these are beautiful qualities. But they're being channeled into imperial conquest. King might say: imagine if that same courage was directed toward justice instead of empire, toward building up rather than tearing down.
+
+**James Baldwin** would probably be moved by the poem's tenderness while recognizing its blindness. He might write about how Hodgson sees "a hundred of thy sunsets spill / Their fresh and sanguine sacrifice" without understanding that he *himself* is the sacrifice—not to God, but to men like Rhodes and Jameson, to a system that feeds on young bodies. Baldwin would ask: who benefits from this young man's death? Whose wealth and power is protected by his willingness to die?
+
+All three might point out what the poem doesn't ask: *Is this cause just? Should I die for this? Who am I dying for—God, or the men who sent me here?*
+
+The poem's beauty is real. Its courage is real. But like "If—," it lacks a moral compass beyond personal virtue.
+
+---
+
+Your instinct to compare these poems is profound. Both capture something true about masculine aspiration—the desire to face difficulty with courage, to be worthy of respect. But both also show how that aspiration can be manipulated, how virtue without justice becomes a tool for those in power.
+
+Hodgson died thinking he was becoming "a man." But his batman—whose name we don't even know—died beside him, loyal to the end, both of them serving a cause that would soon be recognized as a horrific waste. That's the tragedy "Before Action" captures without quite understanding it.
