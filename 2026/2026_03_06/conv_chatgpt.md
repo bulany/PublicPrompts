@@ -583,3 +583,127 @@ Water could be the **thread connecting generations**.
 
 **How the Roman aqueducts around Lyon used “inverted siphons” made of lead pipes to cross valleys**—a hydraulic trick so advanced that engineers were still impressed by it in the 19th century.
 
+
+# Prompt 3
+So the generations time measure I find a bit hard to understand... maybe an easier thing for me would be understand things with Halleys Comet. Can you trace back the appearances of Halley's comet to the one before the aqueducts were built in Lyon... are there historical records for each of these appearances?
+Like maybe for each appearance of Halley's comet you could tell me about one 'famous' person who wrote about it.
+How much further back would you have to go to get to "King David"? And where did King David live and what language would have he spoken?
+
+# Response 3
+Using **Halley's Comet** as a clock is actually a great idea. It returns roughly every **75–76 years**, which makes it a convenient marker across human history.
+
+We have reasonably reliable historical records of many of its appearances going back **more than 2,000 years**, because bright comets were carefully recorded by Chinese, Roman, and medieval chroniclers.
+
+Below is a timeline stepping backward from the present to the period just before the Roman aqueducts were built in Lyon.
+
+---
+
+# Halley’s Comet appearances and people who wrote about them
+
+| Year | Person / source who wrote about it                                                | Context                                                                         |
+| ---- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 1986 | modern astronomers worldwide                                                      | Spacecraft missions studied the comet directly                                  |
+| 1910 | Mark Twain famously predicted his death would coincide with it                    | He was born during the 1835 appearance and died in 1910 just after it returned  |
+| 1835 | many European astronomers                                                         | One of the first returns predicted accurately after Halley identified the comet |
+| 1759 | prediction confirmed by scientists following the work of Edmond Halley            | First time a comet return was successfully predicted                            |
+| 1682 | Edmond Halley observed it and later realized earlier comets were the same object  |                                                                                 |
+| 1456 | European chroniclers and church figures including Pope Callixtus III mentioned it | Appeared during Ottoman advances in Europe                                      |
+| 1066 | recorded in the Anglo-Saxon Chronicle                                             | Interpreted as an omen before the Norman conquest of England                    |
+| 837  | detailed records from Chinese imperial astronomers                                | One of the closest recorded passes to Earth                                     |
+| 451  | mentioned in late Roman chronicles                                                | Appeared during the era of Attila the Hun                                       |
+| 374  | Chinese astronomical records                                                      | During the late Roman Empire                                                    |
+| 295  | Chinese and Roman sources                                                         | Around the time Roman Lyon was declining                                        |
+| 218  | Roman historian Cassius Dio describes a comet during the reign of Macrinus        |                                                                                 |
+| 141  | Chinese astronomical records                                                      | Roman aqueducts in Lyon still operating                                         |
+| 66   | recorded by Roman historian Josephus and Chinese observers                        | Near the time of early Christianity                                             |
+
+---
+
+# Just before the Lyon aqueducts
+
+The earliest aqueducts supplying **Lugdunum** (Roman Lyon) began around **10 BCE**.
+
+Halley’s Comet appeared **12 BCE**, only a couple of years earlier.
+
+Chinese astronomers recorded this appearance in detail. At that moment:
+
+* the Roman Empire under **Augustus** was at its peak
+* Roman engineers were expanding cities like Lyon
+* construction of the first aqueducts was about to begin
+
+So if you had been standing on Fourvière hill then, you might have seen **Halley’s Comet in the sky just before the aqueduct projects started**.
+
+---
+
+# Going back to King David using Halley’s Comet
+
+If we keep stepping backward roughly every 76 years:
+
+| Approx year | Event                                           |
+| ----------- | ----------------------------------------------- |
+| 12 BCE      | comet before Lyon aqueduct construction         |
+| 87 BCE      | Roman Republic era                              |
+| 164 BCE     | Maccabean period in Judea                       |
+| 240 BCE     | Hellenistic world                               |
+| 316 BCE     | Alexander’s successors ruling the Mediterranean |
+| 393 BCE     | Classical Greek era                             |
+| 468 BCE     | Early Athenian democracy                        |
+| 544 BCE     | Babylonian period                               |
+| 620 BCE     | Assyrian dominance                              |
+| 696 BCE     | Kingdoms of Israel and Judah era                |
+| 771 BCE     | early biblical monarchies                       |
+| 847 BCE     | near time of the prophets                       |
+| 923 BCE     | early Israelite kingdom                         |
+| ~999 BCE    | approximately the era of **King David**         |
+
+So reaching **King David** from today takes about **40 Halley cycles**.
+
+---
+
+# Where King David lived
+
+King David ruled in the region historians call the **Kingdom of Israel** around **1000 BCE**.
+
+Important locations in his story include:
+
+* Bethlehem — traditionally his birthplace
+* Jerusalem — the city he made his capital
+
+Jerusalem was then a relatively small hilltop city compared to later periods.
+
+---
+
+# What language King David spoke
+
+David likely spoke an early form of **Biblical Hebrew**.
+
+This language:
+
+* belongs to the **Northwest Semitic language family**
+* is related to Phoenician, Aramaic, and later Hebrew dialects
+* is the language used in much of the Hebrew Bible
+
+It would sound quite different from modern Hebrew, though the written form is related.
+
+---
+
+# A surprising perspective
+
+Putting all this together:
+
+* **Roman Lyon aqueducts** → ~2000 years ago
+* **King David** → ~3000 years ago
+* Difference → only about **13 Halley’s Comet cycles**
+
+So in terms of this cosmic clock:
+
+**David → Roman Lyon → today**
+is only about **40 comet appearances total**.
+
+That’s a surprisingly small number.
+
+---
+
+If you'd like, I can also show you something interesting:
+**which Halley appearance likely inspired the “Star of Bethlehem” story** and how historians try to connect astronomical events with ancient texts. It’s a really fascinating intersection of astronomy and history.
+

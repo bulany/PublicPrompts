@@ -196,3 +196,103 @@ Rather than list 70 names (which would be a telephone directory, not a story), h
 **You, the reader** (2025) — walks past the aqueduct ruins and wonders how they happened.
 
 That's your book. Or your ten books. The water is always there.
+
+# Prompt 3
+So the generations time measure I find a bit hard to understand... maybe an easier thing for me would be understand things with Halleys Comet. Can you trace back the appearances of Halley's comet to the one before the aqueducts were built in Lyon... are there historical records for each of these appearances?
+Like maybe for each appearance of Halley's comet you could tell me about one 'famous' person who wrote about it.
+How much further back would you have to go to get to "King David"? And where did King David live and what language would have he spoken?
+
+# Response 3
+What a beautifully calibrated unit of measurement. Halley's Comet is actually a perfect yardstick for this, because unlike generations — which are fuzzy and overlap — the comet is a hard, visible, datable event. Every person alive on earth for one of its appearances got the same reminder that time is long and they are briefly in it.
+
+The comet returns roughly every **75–76 years**. Here are its appearances going backwards from today, with a witness at each one where the record allows.
+
+---
+
+**1986** — Scientists worldwide, but the spacecraft *Giotto* (named after the painter — more on him shortly) flew through the coma and photographed the nucleus for the first time. Underwhelming to naked-eye observers. Spectacular scientifically.
+
+**1910** — **Mark Twain**. He had said, born in 1835 with the comet, he expected to go out with it too. He died on April 21, 1910 — the day after perihelion. This is one of history's more perfectly timed exits.
+
+**1835** — Various astronomers observed it carefully. Twain was born. Not a spectacular appearance but well-documented.
+
+**1759** — This was the *proof* appearance. **Edmond Halley** had predicted in 1705 that the comets of 1531, 1607 and 1682 were all the same object and would return around 1758. He died in 1742 without seeing it confirmed. French astronomer **Alexis Clairaut** refined the prediction; **Charles Messier** tracked its return. The comet arrived on schedule. Halley was vindicated from the grave.
+
+**1682** — **Edmond Halley** himself observed it as a young man of 26, not yet knowing he was watching his own legacy. He recorded it meticulously.
+
+**1607** — **Johannes Kepler** observed it carefully. This was the same year he was working through the laws of planetary motion. He didn't yet understand what comets were, but he noted everything.
+
+**1531** — **Peter Apian**, a German mathematician, observed it and noticed something revolutionary: the tail always pointed *away* from the sun, regardless of the comet's direction of travel. A fundamental discovery in astronomy, made by watching this specific apparition.
+
+**1456** — The comet appeared during a period of enormous anxiety — the Ottomans had just taken Constantinople three years earlier. **Pope Calixtus III** issued a papal bull calling for prayers against "the Devil, the Turk, and the Comet." The story that he literally *excommunicated* the comet is probably apocryphal, but the bull is real. The comet was understood as an omen of catastrophe.
+
+**1378** — Records thinner here. European chronicles note a comet. We're in the era of the Black Death's aftermath, the Great Schism in the papacy.
+
+**1301** — **Giotto di Bondone**, the Florentine painter, almost certainly saw this apparition. Two or three years later, painting his famous *Adoration of the Magi* fresco in the Scrovegni Chapel in Padua, he painted the Star of Bethlehem as a comet — with a tail, glowing, unmistakably based on real observation. Art historians widely believe he was painting what he had just seen. The spacecraft sent to visit the comet in 1986 was named *Giotto* in his honour.
+
+**1222** — **Genghis Khan**, according to several sources, observed this comet during his campaigns and interpreted it as a divine sign pointing westward — toward Europe. The Mongol invasion of Eastern Europe followed. The sourcing is not airtight, but the story has been told since medieval Persian chronicles.
+
+**1145** — **Henry of Huntingdon**, an English chronicler, recorded a notable comet.
+
+**1066** — One of the most famous appearances in history, because it arrived at an extraordinarily dramatic moment. It is depicted in the **Bayeux Tapestry** — a group of figures pointing upward at a fiery object in the sky, while below them King Harold sits on his throne looking alarmed. The **Anglo-Saxon Chronicle** describes it explicitly. Both the English and Norman sides would have seen it as an omen. Harold was dead and England was conquered within months.
+
+**989** — Byzantine chronicles record it.
+
+**912** — Thin records. Dark age of European documentation.
+
+**837** — The most spectacular apparition in the entire historical record — the comet passed closer to Earth than at almost any other known visit, and its tail stretched across perhaps 90 degrees of sky. **Louis the Pious**, Charlemagne's son and Holy Roman Emperor, was reportedly terrified. Carolingian chronicles record that his court astronomers worked through the night to observe and record it. Chinese records are detailed. Islamic astronomers in Baghdad noted it. This one was impossible to ignore.
+
+**760** — Carolingian period. Some records.
+
+**684** — **The Venerable Bede**, the great English scholar-monk, was alive and writing during this period (he was about 12 when the comet appeared). He wrote extensively about comets in his scientific works *De Natura Rerum* and *De Temporum Ratione*, and this apparition likely shaped his thinking, even if he discusses comets generally rather than this one specifically.
+
+**607** — Pope Boniface III's brief papacy. Chinese records.
+
+**530** — The reign of **Justinian I** in Byzantium, who was simultaneously trying to reconquer the Western Roman Empire and dealing with the outbreak of the Justinianic Plague. Court historians like **Procopius** were active. Whether he personally noted this specific comet is unclear.
+
+**451** — The year of the Battle of the Catalaunian Plains — Attila the Hun was stopped from conquering Western Europe. **Hydatius**, a Spanish bishop and chronicler, recorded a comet this year. It was interpreted, unsurprisingly, as an omen of catastrophe.
+
+**374** — Records are sparse. The Roman Empire is fracturing.
+
+**295** — Late Roman Empire. Some records.
+
+**218 AD** — Around the reign of Caracalla. Chinese records confirm an apparition.
+
+**141 AD** — The great age of the Antonine emperors — Marcus Aurelius was a child. Chinese records.
+
+**66 AD** — One of the best-documented ancient appearances, because the witness is first-rate. **Josephus**, the Jewish historian, describes in *The Jewish War* a comet shaped like a sword that hung over Jerusalem for a year before the Roman siege. He was writing about the fall of the Temple. This is a clear, unmistakable reference to Halley's Comet, and the timing matches perfectly.
+
+**12 BC** — We are now inside the construction period of the Lyon aqueducts. Augustus is emperor. **Cassius Dio**, writing later, records a comet at this time. Roman sources note it coincided with the death of **Marcus Agrippa**, Augustus's great general and the man who effectively built much of the empire's infrastructure. Some have speculatively connected this apparition to the Star of Bethlehem story, though the dates require some flexibility.
+
+**87 BC** — Just before the aqueducts began. The Roman Republic is tearing itself apart — Sulla is about to march on Rome. **Chinese records** (the *Shiji* of Sima Qian) confirm this apparition clearly. No specific Roman writer we can point to with confidence, though the political chaos of 87 BC was extensively chronicled — nobody paused long enough to write carefully about a comet.
+
+---
+
+**That is the last appearance before the Lyon aqueducts were built.**
+
+The surveyors who laid out the Gier aqueduct's route around 20–10 BC would have been children or young men when the 87 BC comet blazed. By the time the 12 BC comet appeared, the first aqueduct works were probably already underway.
+
+---
+
+**How far back to King David?**
+
+King David is traditionally dated to approximately **1000–960 BC**. The first *confirmed* recorded appearance of Halley's Comet is **240 BC** — confirmed by Chinese astronomical records.
+
+From 240 BC back to 1000 BC is another 760 years, or roughly **10 more appearances** of the comet, at dates we can calculate but cannot confirm from any surviving record:
+
+~315 BC, ~391 BC, ~466 BC, ~541 BC, ~617 BC, ~692 BC, ~767 BC, ~842 BC, ~918 BC, ~993 BC
+
+The **993 BC** apparition would have appeared in David's sky — probably while he was at the height of his power, having unified the Israelite tribes and established Jerusalem as his capital. Nobody wrote it down. Or if they did, it hasn't survived.
+
+So from David's comet to your walk past the Lyon aqueduct ruins is **approximately 27 appearances** of the same object.
+
+---
+
+**Who was King David, and what language did he speak?**
+
+He lived in the ancient **Levant** — what is now Israel and Palestine. His first capital was **Hebron**, in the southern hill country, and he later captured **Jerusalem** (then called Jebus, a Canaanite city) and made it his capital — a politically brilliant move because it belonged to no single tribe and was therefore neutral ground.
+
+He spoke an early form of **Biblical Hebrew** — a Canaanite dialect, closely related to the languages spoken by the Phoenicians (whose alphabet, incidentally, became the ancestor of Greek, then Latin, then the letters you're reading now). His language would have been written in an early Semitic script, read right to left. The Psalms are attributed to him — and while scholars debate how many he actually authored, the poetic tradition that produced them was genuinely his cultural world.
+
+He was not a grand emperor in the Roman sense. His "kingdom" was probably a small but strategically important highland chiefdom in comparison to the great powers of Egypt and Mesopotamia around it. The grandeur is partly retrospective — projected back by centuries of later reverence.
+
+But he was real enough, and his comet hung in the sky over the Judean hills, and nobody wrote it down, and now you know roughly when it was.
