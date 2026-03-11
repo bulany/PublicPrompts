@@ -399,3 +399,441 @@ If you’d like, I can:
     
 
 Just tell me where you’d like to go next.
+
+# Prompt 2
+I just watched the Michael MacKelvie video "Elite Athletes see a different world" which was all about the role of the "Quiet Eye" in sports performance. It made some very convincing arguments (and was incredibly well produced... how does he do that? It was the quality of a broadcast television show but seemed to be just a regular youtube video)
+Some of the comments on the video talked about Target Fixation and how this might be related to Quiet Eye... whereas Target Fixation causes accidents on motorcycles, if drivers train to "look through the corner" they can be much safer. And again I found that with my own experience learning how to drive a car... you need to train yourself to look a bit more out toward the horizon... maybe that is a form of "quiet eye" or is related?
+Anyway, all that got me thinking... I wonder if there is an auditory equivalent of "quiet eye"... a "quiet ear"?
+When I think about my auditory perception I think I am probably "listening" mostly to my inner thoughts and monologue... I think a lot of the time this listening is so focussed that, for example, I'm not aware of the fridge buzzing next to me or other sounds that "blend into the background".
+I'm sure I've had the experience playing the piano or another instrument where all of a sudden you like the sound of what you hear (or when you hit a wrong note!), suddenly you are fixated on that and you "forget where you are going" and you end up making a mistake or just stopping because you "can't remember" what's next. Probably most of the time in this situation I tell myself I don't know the piece well enough and need to keep practicing, but I wonder if its because I have a bad habit of seeing (or internally hearing) a short term goal.
+To me this makes a lot of sense and I wonder what is the extent of the existing research on it.
+One thing I thought doesn't seem apparent: with the Quiet Eye, the principal researcher's (I can't remember her name) first step was to build an eye tracking device so that she could see where athletes were looking when they performed certain tasks. 
+Well seems like it would be super difficult or impossible to do for "listening"... how can we tell if a person is concentrating on their own internal thoughts, or listening to the fridge, or keeping a broad awareness of everything around them, or even "hearing" in their mind the next musical phrase they are going to have to play?
+It seems kind of impossible because we can't see our "auditory eyes" shifting around, but I wonder if there could be a simple little trick like tracking a certain brainwave or something that would make this trivial simple or at least tractable? And then of course, trainable!
+In the video I heard some terms like "fovieal vision" maybe which I imagine are describing things like the various levels of focus or hyper awareness we can give to certain parts of our visual field.
+Are there any similar terms for our auditory sense? And maybe saying "auditory" is a bit too narrow because honestly, I think when we close our eyes its to try and better "listen" and so "listening" in this sense focus on everything else that we can percieve apart from the visual field... like often when we close our eyes we can more easily become aware of not just what we hear, but what thoughts are going through our heads, our breathing, whether we are hot or cold and sometimes even our heartbeat. Is there any terms or literature about this non-visual sensory field and how it might share a bit more of a common space.
+I imagine also, if any of this has weight then humans would have known about it for a long time and we would be able to see evidence of it in turns of phrase or in poetry or some other subtle means. The phrase "listening eyes", or "listen with your eyes" seems to ring a bit familiar to me... do people talk about that or anything else that might be going down that road a bit?
+Would love to hear your thoughts and what you think the state of the art of research with this is. Apparently the Quiet Eye research is relatively recent.
+
+# Response 2
+Your intuition here is extremely good. Researchers across **sports science, neuroscience, music cognition, and contemplative science** are circling around almost exactly the question you're asking: *is there a cross-modal version of the Quiet Eye?*
+
+Short answer:
+
+* There isn’t a widely established term like **“Quiet Ear”** yet.
+* But there **are several research areas that describe almost the same phenomenon**.
+
+Let’s unpack the landscape.
+
+---
+
+# 1. The Quiet Eye researcher you saw
+
+The principal researcher is **Joan N. Vickers**, a sports scientist who coined the term **Quiet Eye**.
+
+Her core finding:
+
+> Elite performers maintain a **stable gaze fixation on a task-relevant target for longer before movement**.
+
+Examples:
+
+* golf putting
+* basketball free throws
+* rifle shooting
+* surgery
+* piano performance (later research)
+
+What the Quiet Eye does:
+
+1. stabilizes visual input
+2. reduces cognitive noise
+3. allows motor planning to occur
+
+In other words, it **stabilizes the perception–action loop**.
+
+Target fixation (motorcycle accidents) is basically the **pathological version** of the same mechanism.
+
+---
+
+# 2. The auditory analogue already exists (sort of)
+
+Several research areas describe something very close to what you’re imagining.
+
+### 1. **Auditory attention**
+
+In neuroscience this is the most direct equivalent.
+
+Humans can:
+
+* focus on one sound
+* broaden to ambient sound
+* monitor internal speech
+* anticipate upcoming sound
+
+Classic example:
+
+**The “cocktail party effect.”**
+
+You can listen to one voice among many while ignoring everything else.
+
+This research field uses terms like:
+
+* **selective auditory attention**
+* **auditory scene analysis**
+* **attentional spotlight**
+
+The idea of a **spotlight** is very similar to foveal vision.
+
+---
+
+### 2. **Auditory imagery**
+
+What you described when you imagine the next musical phrase is called **auditory imagery**.
+
+Musicians are often:
+
+* hearing the next phrase internally
+* while performing the current phrase
+
+Elite performers show stronger coupling between:
+
+* auditory cortex
+* motor cortex
+
+They are effectively **playing slightly ahead of the sound**.
+
+---
+
+### 3. **Predictive processing**
+
+A major modern neuroscience framework.
+
+The brain is constantly **predicting upcoming sensory input**.
+
+So when a pianist plays:
+
+the brain predicts the next notes
+and compares the prediction to reality.
+
+If attention collapses onto a wrong note:
+
+the predictive chain breaks → performance collapses.
+
+This is exactly what you described.
+
+---
+
+# 3. Auditory fovea (yes, that concept exists)
+
+You mentioned **foveal vision**.
+
+Interestingly, researchers sometimes talk about something analogous in hearing.
+
+They use terms like:
+
+### **Auditory spotlight**
+
+The brain can narrow attention to a specific sound frequency or location.
+
+Example:
+
+* focusing on the violin in an orchestra
+* listening for your phone ringing in a noisy room
+
+Neurons in the auditory cortex actually **tune themselves to expected frequencies**.
+
+So there is a kind of **“frequency fovea.”**
+
+---
+
+# 4. Listening beyond hearing (your deeper question)
+
+You asked about the larger sensory space that includes:
+
+* hearing
+* thoughts
+* breathing
+* body sensations
+
+There is a well-studied concept for this.
+
+### **Interoception**
+
+Perception of internal bodily states.
+
+Examples:
+
+* heartbeat
+* breathing
+* gut sensations
+* temperature
+
+And another term:
+
+### **Proprioception**
+
+The sense of body position.
+
+Together with hearing they form a **multisensory awareness field**.
+
+---
+
+# 5. A modern umbrella concept
+
+One of the most useful modern terms is:
+
+### **Global workspace**
+
+In cognitive science, the brain maintains a limited **workspace of attention** where sensory signals compete.
+
+Vision dominates most of the time.
+
+But when you close your eyes:
+
+auditory + bodily signals become stronger.
+
+That’s why musicians, meditators, and athletes sometimes close their eyes.
+
+They are **changing the sensory weighting of the workspace**.
+
+---
+
+# 6. Measuring “quiet ear”
+
+Your skepticism is justified.
+
+Tracking gaze is easy.
+Tracking attention is hard.
+
+But scientists do try.
+
+Methods include:
+
+### EEG
+
+Measures brainwave patterns associated with attention.
+
+Elite performers show:
+
+* reduced neural noise
+* synchronized brain rhythms
+
+---
+
+### fMRI
+
+Shows which sensory areas activate.
+
+Musicians show activation in:
+
+* auditory cortex
+* motor cortex
+* prediction networks
+
+even when imagining music.
+
+---
+
+### Pupillometry
+
+Pupil dilation reflects cognitive effort.
+
+Used in listening studies.
+
+---
+
+### Eye tracking + sound tasks
+
+Sometimes researchers combine gaze tracking with auditory tasks.
+
+This reveals how visual attention influences listening.
+
+---
+
+# 7. Something extremely close to your “quiet ear”
+
+In music cognition there is a concept called:
+
+### **Audiation**
+
+Coined by music educator **Edwin E. Gordon**.
+
+Audiation means:
+
+> hearing and understanding music in the mind even when no sound is present.
+
+It includes:
+
+* anticipating musical structure
+* holding rhythm internally
+* projecting forward
+
+In some ways **audiation is the auditory analogue of Quiet Eye**.
+
+Expert musicians maintain **continuous audiation** while performing.
+
+When it breaks:
+
+they lose their place.
+
+Exactly what you described.
+
+---
+
+# 8. Why fixation is so powerful
+
+You asked why it’s so hard to move attention once locked.
+
+This is because of the **salience network** in the brain.
+
+Key region:
+
+### **anterior cingulate cortex**
+
+It detects important events.
+
+When something unusual happens:
+
+* wrong note
+* sudden sound
+* obstacle
+
+attention snaps to it automatically.
+
+This is survival machinery.
+
+Training teaches you to **override the reflex**.
+
+---
+
+# 9. Humans have known this forever
+
+You were absolutely right about poetry and language hinting at it.
+
+Examples:
+
+“Keep your eye on the ball.”
+
+“Don’t lose sight of the goal.”
+
+“Listen deeply.”
+
+“Keep your eyes on the horizon.”
+
+“Stay the course.”
+
+These are all **attentional training instructions disguised as metaphors**.
+
+Even meditation traditions describe something similar:
+
+* “open awareness”
+* “single-pointed attention”
+* “soft gaze”
+
+---
+
+# 10. Your piano insight is probably correct
+
+Many musicians assume mistakes mean:
+
+“I don’t know the piece well enough.”
+
+But often the real cause is:
+
+**attentional collapse**.
+
+When attention locks onto:
+
+* a wrong note
+* a pleasing sound
+* an intrusive thought
+
+the forward predictive chain breaks.
+
+The best musicians maintain:
+
+* awareness of the phrase
+* awareness of the bar
+* awareness of the structure
+
+simultaneously.
+
+That’s essentially **Quiet Eye applied to music**.
+
+---
+
+# 11. Why Michael MacKelvie’s video looks so good
+
+You asked about the production quality.
+
+Michael MacKelvie likely achieves it through:
+
+* cinema-grade cameras
+* motion graphics software
+* heavy scripting
+* color grading
+* stock footage libraries
+* professional sound design
+
+Many top YouTube educators now operate almost like **small production studios**.
+
+The budget per video can be tens of thousands of dollars.
+
+---
+
+# 12. Where research might go next (and your idea is good)
+
+Your intuition about **training auditory attention** is actually a growing research topic.
+
+Areas being explored:
+
+* neurofeedback training
+* musician cognition
+* meditation and open awareness
+* augmented reality training systems
+
+A real “quiet ear” training method might involve:
+
+* EEG feedback
+* auditory prediction tasks
+* musical improvisation exercises
+
+This field is still young.
+
+---
+
+# 13. One fascinating final insight
+
+Quiet Eye research shows something surprising:
+
+Elite performers **look less**, not more.
+
+They reduce visual scanning.
+
+Similarly, elite listeners often:
+
+* reduce internal chatter
+* stabilize auditory imagery
+* maintain a broad but calm awareness.
+
+So the skill may not be “focus harder.”
+
+It may be **“stabilize attention.”**
+
+---
+
+✅ **Your core intuition is scientifically plausible:**
+
+There may exist a **general attentional skill across sensory modalities**.
+
+Vision just happens to be the easiest place to measure it.
+
+---
+
+If you're interested, there are three *really fascinating* directions we could explore next:
+
+1. Why **elite musicians often look ahead in the score by several seconds** (and how that relates to Quiet Eye)
+2. The strange neuroscience of **inner speech vs auditory imagery**
+3. The possibility that **meditation traditions discovered “quiet eye” centuries ago**
+
+Any of those goes very deep.
