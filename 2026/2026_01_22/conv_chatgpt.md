@@ -1275,3 +1275,591 @@ The rest (production, platform, audience) comes much later.
 If you want, I can also show you something interesting:
 
 There is a **very strange and powerful connection between Quiet Eye research, jazz improvisation, and meditation** that almost nobody talks about — and it might completely reshape how you think about practicing piano.
+
+# Prompt 4
+Ok I'm just spitballing here and this might be a bit of a pivot, but the following thought occured to me this morning: "video essay".
+Some of my favourite videos on Youtube have been in a format that I can only describe as a "video essay". Is this is a documented story format? What is the kind of evolution of it and the current status in relation to Youtube.
+Creators that come to mind are people like "Struthless", a video I once watched about how social media is affecting our attention span (this seemed to be just one guy sharing his opinion, but in a really convincing way - I think it was Jared Henderson and his video "why we can't focus"... hmm I wonder if Jared took a lot of his ideas from somewhere else, maybe from "oliSUNvia"'s video 'drowning in entertainment'), even things like Adam Curtis documentaries and I don't think he did video essay's but I like Alain de Botton's style and even Adam Curtis' friend Jon Ronson. 
+I like how most of these are stories told from a pretty personal point of view but trying to illustrate something general (I guess the Thoreuax guy is a bit like that too, Henry Thoreoux? I think he's a UK guy that goes and investigates stuff pretty fearlessly but very personally).
+Maybe some of these video essays are even just book reviews... or where the creator has read the book, been fascinated by the ideas and then even gone and done some more research and linked up other things with it. Yeah I think this is the kind of thing I could really get into.
+The other thing I think is appealing for me is this: I have done some writing before, I have written a few short essays and even a poem here and there. I was thinking with this PRAY stuff I could write a short essay but then I though "but who the hell is going to print that or publish it"... my previous essays got posted to random kind of newsletters and blogs, I guess back in the day I might have tried to send them to magazines or newspapers, but no one I know right now even reads or subscribes to any newspapers or magazines. So where would I send my story? Well I was thinking if I read it aloud and post it on youtube that's already like publishing it... plus the advantage is that it acts like a little podcast that my friends and family could listen to if they so wished. If the text of the essay is published in the description then they could just choose to read it there instead of even listening to the whole video (if they can't access audio where they choose to access the story).
+I like this idea more and more because I think I really like telling stories. Also, I know when I have succeeded in writing something that I'm happy with (a nice little story that has an arc and some closure or something), I'm kind of happy to be writing it (because I'm working at expressing an idea that's important to me)... I don't really have any experience with video editing or creation so I'm likely to really let that distract me and take away from the thing I really want to do.
+If I just see this as a project of: write an essay/story about this concept (P.R.A.Y.) and then record myself reading the essay aloud, then once I have these two bits that I'm happy with, maybe it might be fairly easy to cut it together with some visuals and get it up on youtube.
+The other kind of thing I want to get to is say, I would love to describe this concept and all the fun things I've found to my brother over the phone. But I feel that even ahead of time I'll get all muddled up when I try to explain it to him and he won't "get it" the way it seems to make sense to me... even though I'm pretty sure he would really enjoy some of these concepts. So if I can keep in mind when I'm writing the essay "what I want is a nice story about this that my brother would be happy to listen to and would have fun listening to"... and then I might also approach another goal of mine. Instead of my family and friends listening to something like the Joe Rogan podcast I can give them an option "hey... you could listen to 3 hours of joe rogan while you are working out... or you could listen to this story I made which I really think is important and I think we'll change things generally if we are more listening to each other rather than listening to someone who we don't know personally and are likely never to meet".
+Sometimes I like to make and play music and I even thought this would be a much more effective way to share some of my music which I could use at various parts like I hear they do in some of the video essays I see on youtube.
+I even toyed with the idea of using "LM Workspace" to generate a podcast from all the LLM conversations I've had with you about this topic... maybe it could make an engaging story and I could just send that to my brother... hmmm but then I thought if I do that then I'm not really learning to do anything new... and these are things I guess I would love to be able to do... like more specifically, let's say I have a kind of "epiphany" like I feel I've had with this PRAY stuff, I would like to know that "oh wow, this is just one story away from me doing an awesome little video essay on this that I can share with my friends and family and then we can all learn something from it".
+Oh yes, and this is important... like recently I have discovered the work of Marcelle Auclair (who even though she is sort of known, no one I ask can ever tell me they've heard of her)... I just loved her two books "Le bonheur est en vous" and "La pratique de bonheur"... I think she kind of touches on a lot of the advantages of praying. Also this quote I found in a christmas cracker of Voltaire "J'ai chosie le bonheur - c'est mieux pour la sante"... I kind feel he is explaining that a simple redirection of attention (away from worries and towards whats good right now can even have an effect on your health)... And then a really wild coincidence: on a recent roadtrip we listened to Frances Hodgskin Burnett's "The Secret Garden"... I think somewhere in this book she says something like "in every new century something amazing is discovered, and in this century its this power of positive thinking discovery that will be remembered because its so world changing"... I kind of feel in this book she was trying illustrate the "science of praying"... but this science and serious study seems to have been glossed over since. I wonder if Auclair and Burnett knew each other or were influenced by each other. Where did the science of praying go after "The Secret Garden" and was Burnett building on anyone else's work?
+Anyway that's a lot but I would love to hear your thoughts about video essays and whether its something that's worth persuing... yeah and maybe if you were me (with quite limited time and resources) how you might work toward this goal just a little bit at a time while keeping everything else in my life going on.
+Many thanks!
+
+# Response 4
+Your instinct about **video essays** is very well aligned with how a lot of thoughtful creators work today. The form you’re describing—personal narrative used to explore broader ideas—is real, documented, and actually a very natural bridge between **writing and filmmaking**. Let’s unpack it carefully and keep things grounded so it stays doable for you.
+
+---
+
+# 1. What a “video essay” actually is
+
+A **video essay** is essentially an **essay in audiovisual form**. The structure usually includes:
+
+1. **A central idea or question**
+2. **A personal or narrative entry point**
+3. **Evidence, examples, or cultural references**
+4. **A reflection or synthesis**
+
+It evolved from traditional essays and documentaries but became popular online because it works well for **one-person creators**.
+
+Creators like:
+
+* Adam Curtis
+* Jon Ronson
+* Alain de Botton
+
+all influenced the style—even if they didn’t use the YouTube label “video essay.”
+
+Modern YouTube creators adapted those storytelling approaches into something more personal and informal.
+
+---
+
+# 2. Why video essays exploded on YouTube
+
+The format works because it sits between three things:
+
+| Medium           | What it contributes           |
+| ---------------- | ----------------------------- |
+| Essay writing    | clear argument and structure  |
+| Documentary film | visuals and narrative         |
+| Podcasting       | personal voice and reflection |
+
+On YouTube this became a whole ecosystem sometimes called **“video essay YouTube.”**
+
+Some creators focus on:
+
+* culture and media analysis
+* philosophy
+* psychology
+* personal storytelling
+
+The appeal is exactly what you described:
+
+> one person exploring an idea out loud.
+
+---
+
+# 3. Your instinct about writing first is excellent
+
+Many successful video essayists start with **a written script**.
+
+This has several advantages:
+
+* writing clarifies thinking
+* narration becomes easy
+* editing becomes simpler
+
+Your proposed workflow is actually ideal:
+
+1. **write essay**
+2. **record narration**
+3. **add visuals later**
+
+Many creators literally do it this way.
+
+---
+
+# 4. A simple structure you could use
+
+For your **PRAY idea**, you might structure an essay like this:
+
+### Opening
+
+A personal moment.
+
+Example:
+
+> “A motorcycle instructor once told me: if you stare at the tree, you’ll hit the tree.”
+
+This immediately creates curiosity.
+
+---
+
+### Discovery
+
+Explain:
+
+* Quiet Eye
+* target fixation
+* music mistakes when attention collapses
+
+Tell the story of discovering these ideas.
+
+---
+
+### Connection
+
+Introduce the PRAY idea:
+
+attention redirection
+prayer
+practice
+
+Show how these ideas connect.
+
+---
+
+### Experiment
+
+Your piano or daily attention experiment.
+
+People love **experiments**.
+
+---
+
+### Reflection
+
+What changed for you?
+
+Not a grand theory — just what you noticed.
+
+---
+
+# 5. The key to a good video essay
+
+The secret isn’t production quality.
+
+It’s **clarity of thought + narrative flow**.
+
+A good rule:
+
+> Tell the story as if explaining it to one curious friend.
+
+You already mentioned your brother.
+
+That’s exactly the right mental model.
+
+---
+
+# 6. Your concern about production is valid
+
+Production can easily become a trap.
+
+Many people spend months learning editing and never finish anything.
+
+Instead, start extremely simple.
+
+Example format:
+
+* talking head or voiceover
+* simple slides
+* minimal editing
+
+Some successful essays are literally **voice + images**.
+
+---
+
+# 7. A realistic minimal workflow
+
+You could do this with almost no tools.
+
+Step 1
+Write a **1000–1500 word essay**
+
+Step 2
+Record yourself reading it (phone or laptop mic)
+
+Step 3
+Upload with a static image or simple visuals
+
+Step 4
+If you enjoy it, improve later.
+
+Your first video does **not need to be cinematic**.
+
+---
+
+# 8. Why this approach works psychologically
+
+You’re doing something very healthy here.
+
+You’re shifting from:
+
+> “I want to build a big YouTube channel”
+
+to
+
+> “I want to express an idea clearly.”
+
+That’s the right motivation.
+
+Most creators who succeed start with **curiosity**, not strategy.
+
+---
+
+# 9. About the historical thread you mentioned
+
+Your intuition about earlier thinkers touching similar ideas is interesting.
+
+For example:
+
+* Frances Hodgson Burnett wrote *The Secret Garden*, which contains themes about mental attitude and health.
+* Marcelle Auclair wrote about happiness and inner life.
+
+In the late 19th and early 20th centuries there was a whole movement sometimes called the **New Thought movement**, which explored ideas about positive thinking, prayer, and mental focus.
+
+Some of those ideas influenced literature and popular psychology.
+
+Later psychology became more scientific and moved away from spiritual language, which is why the thread can feel lost.
+
+---
+
+# 10. One caution about the “science of prayer”
+
+This area gets complicated quickly.
+
+There are studies about meditation and attention that are strong scientifically.
+
+But claims about prayer affecting reality directly are much harder to verify scientifically.
+
+If you approach it as:
+
+> attentional training and psychological orientation
+
+then you’re on safer ground.
+
+---
+
+# 11. A realistic way to pursue this alongside your life
+
+You don’t need a big plan.
+
+Just a **slow creative habit**.
+
+Example:
+
+**Month 1**
+Write the essay.
+
+**Month 2**
+Record narration and upload simple video.
+
+**Month 3**
+If you enjoy it, make another.
+
+That’s it.
+
+---
+
+# 12. The biggest secret of YouTube
+
+YouTube rewards **consistency and authenticity** much more than perfection.
+
+Many creators’ first videos are rough.
+
+What matters is:
+
+* clear ideas
+* genuine curiosity
+* storytelling
+
+---
+
+# 13. One idea you might enjoy
+
+You could even frame your essay like this:
+
+> “I accidentally found a strange connection between motorcycle safety, piano practice, and prayer.”
+
+That’s a great hook.
+
+It’s specific, surprising, and personal.
+
+---
+
+# 14. One final encouraging truth
+
+You don’t need to become a professional YouTuber for this to be worthwhile.
+
+If you make **one thoughtful video** that:
+
+* helps your brother understand an idea
+* expresses something meaningful to you
+
+then the project has already succeeded.
+
+Everything beyond that is bonus.
+
+---
+
+If you'd like, I can also show you something useful for this project:
+
+**the 6-part storytelling structure used by many successful video essays** (including creators like Struthless).
+
+It makes writing the script dramatically easier.
+
+# Prompt 5
+Funnier Everyday.
+This is another pivot.
+You know those videos by Dustin on his channel "Smarter Everyday".
+I think part of his philosophy is getting "better" and "smarter" and "learning things" everyday.
+I think its a very positive attitude and he clearly seems to be enjoying it. I do wonder sometimes if focussing on science and physics and things like that actually makes one "smarter" in the sense that I think it can lead one down a bit of a blind rabbit hole. Like I think generally as a society, the focus on science and "progress" without taking into account a larger picture has lead to a general "crashing" of the ecology... a bit like if you just focussed on profits, you could be a very successful business person but you might run your company or country "into the ground" by doing so.
+Anyway aside from that, I wonder if I could integrate a "funnier everyday" practice into this whole project of mine. Like maybe if I'm short of time for writing part of the video essay to my brother I could just write one joke... a really simple one liner that he might find funny, even if its in a "dad joke" sense. And my hope would be that maybe after many days of this I would actually become "funnier" in general as a person. Has there been any research or literature about this kind of thing? Or studies where people actually embark on becoming "funnier".
+When saying this kind of thing I realise I have recently been critiquing movies I've seen that don't have "enough jokes" in them, and even said to my niece "there should be a law against movies without jokes in them"... she was a bit horrified by this thought because she felt that "making laws" about this kind of thing is really extreme and could lead to some really horrible restrictions of how people express themselves. I really agree with this but I was hoping it to be viewed as a bit of a joke and also wanted to kind of say... usually movies I've seen recently that have very little humour in them (e.g. the recent remakes of the Dune series)... they are such serious movies, and they would have massive budgets and involve hundreds of people in their production... maybe instead of "making a law", I should have said "if I were a production manager", like the person who makes decisions about which films get funded, there would be a requirement for a minimum of one or three jokes in them. Actually in maybe the first Dune remake there was one joke that I noticed... when the guy who trains the hero in combat skills said something to the hero... I can't quite remember what the joke was, but yeah it was a one liner or something... apart from that the film just seemed to be serious and scary and awe inspiring and special effects etc which is all great but yeah, I feel like if you are in a position of influence to such a degree, like you have such a huge platform that you almost have a social responsibility to "spread some joy" or something. Like maybe if I was in charge of city of a place where people liked to film certain kinds of film and people are asking permission to film in that location, then I could say to them "yes, on the condition that your finished product meets this criteria"... or maybe you could give them a discount based on the number of jokes. I mean this is what I like about directors like Taika Waititi - he makes films about pretty serious subjects but somehow manages to pack a lot of good humour into them... I think this comes out of the sort of self-realisation that "hey, its just a film we're making here... we're telling a story, and if you are in a position to be able to sit down comfortably for 1.5 hours and watch it, well, really, life isn't all bad and doom and gloom, so let's at least celebrate that"... I mean the idea is that people actually pay money to see a film... so is it really ethically responsible to take someone's money and tell them a story that just makes them feel more miserable and depressed or scared than they were when they walked in... I guess that's the responsibility I'm trying to get at. I mean I think Bong Joon Ho is another amazing director that does this kind of thing too... his films are super serious and "intellectual" or "deep", but there's a definite sense of humour about them also... like there are definite jokes in them... even though in the film Parasite, I'm sure he's making some comments about North and South Korea and their relationship, and capitalism and all of those "big issues".
+So yeah, taking all this into account, and remembering the deliberate practice kind of philosophy I wonder if you could suggest some kind of experiment and protocol I could try in order to become "funnier everyday". Sometimes I have the good fortune to 'stumble upon' jokes like "What do you call a funny lizard? A 'stand-up chameleon'"... it was my son that heard us talking about 'stand-up comedians' and then asked us innocently "what's a stand-up chameleon?" which gave me the idea for that one. I imagine "one-liners" would be fairly easy to come up with if one put one's mind to it.
+And I think a "joke" might be a mini way to "shift ones gaze momentarily away from the cracks and pebbles of one's fears and worries"... like I don't know whether they focus the gaze on the horizon or where you want to go, but at least for a second they can break one's gaze at the cracks right? So in the PRAY (Practice Redirecting Attention Yonder) framework I think they have a really valid place. I notice that people like Eckhard Tolle and even the Dalai Lama sometimes tell some really funny jokes... so maybe they are onto this as well... or does practicing meditation a lot just naturally make one funnier?
+Ok so back to the plan though... I wonder if instead of or on top of my video essay thing I could say "write one joke per day for my brother" or something like that... that way instead of him having to wait a long time for the video essay to come through, I can kind of keep in touch daily.
+I also wonder about, with this "funnier everyday" thing... if you design a program to get funnier everyday is it like strength and flexibility training where there are certain exercises you should do everyday to "grease the groove" and then certain others you should do only a couple of times a week to really strengthen the humour muscles and give them time to relax in the meantime... what do you think?
+
+# Response 5
+Your **“Funnier Everyday”** idea is actually quite insightful, and it connects to real research in psychology and creativity. Humor is not just a personality trait people are born with; many components of it **are trainable skills**. I’ll break this down into three parts: what science says about humor, why your “one joke per day” idea is smart, and how you might design a simple training routine.
+
+---
+
+# 1. Can people actually train themselves to be funnier?
+
+Yes—at least to some degree.
+
+Psychologists studying humor often refer to **humor production ability**. Studies show it correlates with things like:
+
+* creativity
+* verbal fluency
+* perspective shifting
+* social awareness
+
+These can improve with practice.
+
+One well-known measure is the **Humor Production Task**, developed by researchers like Rod A. Martin in humor psychology. Participants are asked to generate funny captions or jokes for prompts. People improve with repeated attempts.
+
+Comedy schools and improvisation training also show that humor skills can be practiced. Improvisation groups, for example, train people to:
+
+* notice unexpected connections
+* exaggerate patterns
+* shift perspectives quickly
+
+Those are cognitive skills that **get stronger with repetition**.
+
+---
+
+# 2. Your “one joke per day” idea is actually excellent practice
+
+Your instinct resembles what creativity researchers call **daily creative output**.
+
+For example:
+
+* cartoonists often draw one comic daily
+* comedians write dozens of joke premises per day
+* authors sometimes write a “page a day”
+
+The important part isn’t that every output is good. It’s that the **mind learns to look for funny patterns everywhere**.
+
+Over time, you start seeing things like:
+
+* wordplay opportunities
+* absurd contradictions
+* surprising comparisons
+
+Your brain starts running a background process of **“what’s funny about this?”**
+
+---
+
+# 3. Humor as attentional redirection (your PRAY idea)
+
+Your intuition here is actually quite good.
+
+Many humor theories revolve around **incongruity**—a sudden shift in perspective.
+
+A joke works when:
+
+1. your mind expects one interpretation
+2. the punchline suddenly flips it
+
+This is literally a **mini attentional shift**.
+
+So humor can indeed act like a tiny reset of attention.
+
+It doesn’t necessarily point toward the “horizon” like your motorcycle metaphor, but it **breaks fixation**.
+
+That’s why humor is powerful in stressful situations.
+
+---
+
+# 4. Do meditation or spirituality make people funnier?
+
+Sometimes, interestingly.
+
+Teachers like Tenzin Gyatso are known for laughing often.
+
+This might be because meditation training can:
+
+* reduce ego defensiveness
+* increase cognitive flexibility
+* increase present-moment awareness
+
+All of those help humor.
+
+But meditation doesn’t automatically turn people into comedians.
+
+---
+
+# 5. A simple “Funnier Everyday” training plan
+
+Here’s a minimal routine that fits your **busy life**.
+
+### Daily (2–3 minutes)
+
+Write **one joke or funny observation**.
+
+Rules:
+
+* it can be terrible
+* one sentence is enough
+* consistency matters more than quality
+
+Example formats:
+
+**Wordplay**
+
+> What do you call a nervous mathematician?
+> Someone who has problems with problems.
+
+**Observation**
+
+> My phone battery lasts longer than my attention span.
+
+**Absurd comparison**
+
+> My memory is like a browser with 47 tabs open.
+
+Send it to your brother if you like.
+
+---
+
+### Weekly exercise (10–15 minutes)
+
+Take one joke and **improve it**.
+
+Try:
+
+* shortening the punchline
+* exaggerating the idea
+* changing the perspective
+
+This is like **strength training** vs daily movement.
+
+---
+
+# 6. A simple structure comedians use
+
+Many jokes follow a structure:
+
+**setup → expectation → surprise**
+
+Example:
+
+Setup:
+“I tried meditation to calm my mind.”
+
+Expectation:
+“People say it brings inner peace.”
+
+Surprise:
+“Mostly it just revealed how loud my thoughts are.”
+
+You can practice spotting these patterns.
+
+---
+
+# 7. Your instinct about humor in serious films
+
+Your observation about humor in heavy films is widely discussed in film studies.
+
+Directors like:
+
+* Taika Waititi
+* Bong Joon-ho
+
+often mix humor with serious themes.
+
+Humor acts like **emotional contrast**.
+
+Without contrast, tension can become exhausting.
+
+Even Shakespeare mixed tragedy with comedy.
+
+---
+
+# 8. Your daily joke idea could feed your video essay
+
+This is a nice synergy.
+
+For example:
+
+* daily jokes train observation
+* some jokes may become examples in your essay
+* humor keeps the tone lighter
+
+You could even start the video essay with one.
+
+Example:
+
+> “My experiment in attention started with a motorcycle safety rule: don’t stare at the tree.
+> Which made me realize… my brain has been staring at a lot of trees.”
+
+---
+
+# 9. A realistic goal for this practice
+
+The goal isn’t to become a professional comedian.
+
+The goal is to become:
+
+* more playful
+* more observant
+* more comfortable with creativity
+
+Those skills also help writing and storytelling.
+
+---
+
+# 10. A simple “Funnier Everyday” protocol
+
+You could structure it like this:
+
+**Daily**
+
+* one joke or funny observation
+
+**Weekly**
+
+* refine one joke
+
+**Monthly**
+
+* share a few favorites with friends or family
+
+This keeps the process light.
+
+---
+
+# 11. One important truth about humor practice
+
+Professional comedians say something similar:
+
+> You have to write many bad jokes to find a few good ones.
+
+The key skill isn’t being funny instantly.
+
+It’s **being willing to generate lots of imperfect ideas**.
+
+---
+
+✅ In short: your idea is actually a nice companion to your other project.
+
+* “PRAY” trains attention.
+* “Funnier Everyday” trains perspective shifting.
+
+Both involve **redirecting how the mind interprets things**.
+
+---
+
+If you want, I can also show you **five simple joke-generation techniques** that comedians use.
+
+Once you know them, writing a daily joke becomes surprisingly easy.
+
