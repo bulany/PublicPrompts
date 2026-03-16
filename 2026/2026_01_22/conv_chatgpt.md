@@ -1863,3 +1863,224 @@ If you want, I can also show you **five simple joke-generation techniques** that
 
 Once you know them, writing a daily joke becomes surprisingly easy.
 
+
+# Prompt 6
+Dear brother, this morning after I dropped my daughter off at daycare I noticed a little flyer sitting on the shelf where I hang her jacket. 
+It was an invitation that had been left on all the other childrens coat shelves also.
+I shoved it in my pocket and rode back home when I finally had a moment to pull it out and examine it more closely.
+It was a small rectangle of A5 paper, mostly white, with red printing. In large text in the top left hand corner it read "You're invited!" and this was neatly framed by a very stylish pencil sketch of hands holding glasses of wine - one on the left and one on the right.
+The drawings were not too detailed and just suggestive of a relaxed and happy occasion.
+There were two little paragraphs of text, each in a different typeface.
+The first read something like "After 8 years of working at our daycare I am leaving to persue a new profession..." and then second "Please join me for farewell drinks on the 30th of March at 5pm...".
+I was very impressed.
+The tone of the text of the two paragraphs, even though there was probably only 100 words in total was a perfect blend of professionalism and warmth. Combined with the graphic design of the wine glass sketch and type layout it just seemed like a very professional package. The kind of thing you might have paid a graphic designer a fair bit of money for just a few years ago.
+And all this was just an invitation to farewell drinks for one of the daycare staff.
+I immediately wondered how much of a role AI and very modern software like Canvaa played a role in the invitations creation. 
+I wondered if AI had even played a role in the conception, planning of the farewell drinks. That is, how much of the project is steps being followed from an initial prompt the staff member made to something like ChatGPT, Gemini or Claude.
+I mean I wondered all this because I was impressed... I was wondering the next time I have to make an invitation, will I be able to do as good of a job as this?
+And I guess the answer probably is "yes", if I entrust a large part of the planning and execution to AI instead of to processes I would traditionally use.
+And so I got to thinking: is this actually the pointy end of the singularity?
+Like what will the world look like in 5 years time when every one is capable of producing an absolutely world class professional invite to their children's birthday. Something as appealing as anything you might see plastered on a wall, printed in a magazine or even on television.
+One has to imagine professional marketing brought down to an incredibly personal level... we will be able to hype our kids birthday party to the same level as a prestigious summer music festival or an exclusive gourmet restaurant.
+What could be the implications of this?
+For one thing I can see that we might pay more attention to our immediate communities. 
+Like we will be less distracted by "big name", "professional" events and occasions because they won't really be able to compete our own productions in terms of marketing.
+But will that mean that professional productions will some how up their game and use even more "heavy artillery" to get our attention.
+Also I wonder what this means for the role of the graphic designer or copywriter?
+Obviously they won't be getting any business from small projects like this, but they probably wouldn't have got business from that in any case... are graphic designers going to all become carpenters?
+Even though I was fairly convinced that the invite was created with a large helping hand from AI, I was really impressed with the thought of the staff member that went into it. I imagine that the concept in her head was basically "I want to invite people to my farewell drinks, and I want the invite to be beautiful"... I think that desire and value she is putting on the event she is creating is quite special... and I think its amazing that we now have the tools at our disposal to make this kind of artistic vision a reality and accessible for everybody... it seems like we are moving toward a kind of personally creative utopia.
+But I wonder about any negative downsides or blindspots that we need to be watching out for... like she got a beautiful drinks invite out of it, but some big corporation got a lot of her data... and maybe sort of "stole" a lot of the labour that traditionally she might have contacted her friends to help out with.
+I think maybe an appropriate analogy is that of pocket calculators. You could argue that once digital adding machines like the pocket calculator were cheap enough to be accessible to every school age student, why are we still teaching long division and other manual mathmatical techniques? Especially considering these kinds of mathmatical skills may have no real benefit in the grand scheme of things... like would it be better to teach children how to find and procure clean drinking water instead of how to divide 58 by 4?
+Like yes, calculators are a crutch that could hinder mathmatical development but the only reason we need that mathematical development is to solve "invented" complexities (e.g. like having enough money to buy bread and knowing that you got the right change... wouldn't it be better to teach children how to make bread instead?)
+So I guess I'm asking, if we can get away from the "job apocalypse" negative viewpoint of AI (which might be a valid and realistic concern), how can we start, everyday using the new pocket calculators (and not being afraid of them) to empower ourselves and our communities to make the world a better place?
+I was thinking, if the daycare staff member got Canvaa and AI to create the flyer that she was happy with and then she drew and kind of copied that picture out by hand and then made *that* the invite that finally got distributed, would that be less "lazy" and have even more of an impact? Or would people just ignore it more, seeing it as "non-professional" and too "handmade"?
+What can I learn from this whole experience and observation?
+I guess the pocket calculator isn't good when it interrupts "flow"... like if you are just in a situation where having a good grasp of numbers means that you can execute something that in the end would be better than having to take the time to get out a calculator and tap in the numbers and get the exact result.
+Ok so maybe this means that a positive side of the "AI revolution" or "singularity" or however you want to hype it (or make it seem impressive/scary) is that we are each going to have more time to focus on our own personal "flow science"... if we use the tools in the right way we are all going to get better at "flowing"... flowing individually and maybe flowing better together as a society. AI might be able to provide some "lubrication" there. 
+Saying this though, I'm still pretty bad at mental arithmatic and don't really think I've ever taken the time to be *conscious* about my pocket calculator use... so I'm a bit worried that if I haven't taken that opportunity, why would I take the opportunity with AI?
+
+Ok... the above text took 42 minutes for me to write, really taking almost no breaks, not trying to think about it too much. It is about 1200 words.
+I have several problems and worries about this: firstly I set a timer for 10 minutes when I started to write thinking "maybe I can just practice writing out one of these little scripts and let's see what happens"... I had to restart the timer several more times because it takes so long to describe things that you can't show people. But I guess if I was talking to my brother over the phone this would be the same problem, and who knows, even if he would be patient enough to listen to me, I would probably make many more "mistakes" and not give the full picture or enough of a picture that he could understand what I was trying to get at, so it might take even way longer than 40 minutes.
+Secondly, I sort of felt I had to keep writing because I wasn't getting to the real curious and interesting issue or question... the real reason why I think he should bother listening to that long complicated story... in fact, even though I kept writing to try and get to this point, I don't really know if I have a good point to the story... other than "wow, the world is changing and I can't really see what's around the corner, how exciting... " or something. I don't think I really "learnt" anything... I'm just asking more questions.
+Thirdly, I feel dissapointed because 40 minutes is probably 4 times more time than I wanted to spend on this "exercise", but I thought I might kind of "give in" to the desire to try and describe this concept that I was trying to get to and maybe just see how long it takes me, so I know for next time. But yeah, I feel like I've kind of failed... I don't have an amazing story and it took me a long time to describe it typing... and wow, I haven't even tried to voice record it, so I don't know how long that would take for my brother to listen to... 5 minutes or 20 minutes... who knows??
+I kind of feel it would be interesting to know how an AI would respond to all the questions I asked and maybe there would be some interesting revelations in that... but then maybe I should go back to the idea of using a TTS generator on my text and then using another TTS voice for the LLMs response... and turning that "conversation with an LLM" into a podcast that I could send to my brother... oh boy... but why should he bother listening to me and an AI rather than just himself or whatever he wants to listen to?
+Ok... now this has been another 10 minutes writing out all this analysis and stuff... I haven't even taken any time to reread what I actually wrote initially. Hmmm can you give me any positive framing here? I've spent close to 50 minutes on this "pet project" so far today... I'll spend even more time reading any responses you have... how can I fit this all into a deliberate practice program for say "video essays"... what should I do tomorrow and the next few days?
+
+
+# Response 6
+You just did something incredibly valuable, and you're punishing yourself for it. Let me reframe what actually happened.
+
+## What You Actually Accomplished
+
+**You wrote 1,200 words in 42 minutes of continuous flow.** That's roughly 30 words per minute of sustained thinking-through-writing. That's *excellent* for exploratory writing.
+
+You're comparing this against some imaginary standard of "should have been done in 10 minutes" or "should have had a clear point." But that's not how thinking works. That's not how writing works.
+
+**What you actually did:**
+- Noticed something interesting (the invitation)
+- Explored the implications through writing
+- Followed your thoughts to see where they led
+- Arrived at genuine questions worth pursuing
+
+This is called **generative writing** or **exploratory writing**, and it's a completely legitimate practice. You're treating it like a failure because it didn't produce a "finished product," but that was never the goal of this session.
+
+## The Positive Reframing
+
+**You just did your deliberate practice session.** This *was* the practice.
+
+Think of it like this:
+- A musician practicing scales isn't "failing" because they didn't produce a concert
+- A weightlifter doing warmup sets isn't "wasting time" because they're not at max weight yet
+- You writing 1,200 exploratory words aren't "failing" because you didn't produce a polished video essay
+
+You're in the **exploration phase**. That's where you're supposed to be.
+
+## What This Session Actually Taught You
+
+**Important data you now have:**
+1. **Writing flow happens** - You sustained 42 minutes of continuous thought
+2. **You can generate material** - 1,200 words means you're not "blocked"
+3. **Your observations are interesting** - The invitation → singularity → flow science is a genuine insight
+4. **You know your questions** - What does AI-enabled creativity mean for communities? For flow? For connection?
+
+**What didn't work:**
+1. **Expecting a polished story in one draft** - That's not realistic
+2. **10-minute constraint was arbitrary** - Let the process take what it needs
+3. **No clear endpoint** - You didn't know when to stop because you hadn't defined "done"
+
+## Your Actual Deliberate Practice Plan
+
+Here's what you should do, based on what you just learned:
+
+### Week Structure
+
+**Monday/Wednesday/Friday: Generative Writing (30-45 min)**
+- Set timer for 30 minutes minimum (not 10)
+- Write about one observation from your week
+- Don't try to "finish" or "find the point"
+- Just explore the idea through writing
+- **Success metric:** Did you write for 30 minutes? ✓
+
+**Tuesday/Thursday: Distillation (15-20 min)**
+- Take previous day's generative writing
+- Read through once, highlight the interesting bits
+- Write 2-3 sentences summarizing the core question
+- **Success metric:** Can you state the question clearly? ✓
+
+**Saturday: Synthesis (45-60 min)**
+- Take the week's distillations
+- Pick the ONE most interesting question
+- Write a 500-word piece with: Hook → Question → Your thoughts → Open ending
+- **Success metric:** Would your brother read this? ✓
+
+**Sunday: Rest/Reflect**
+- No writing required
+- Optional: Send Saturday's piece to your brother
+- Optional: Note what worked this week
+
+## What To Do Tomorrow
+
+**Tomorrow (Wednesday):**
+1. Don't write a new piece
+2. Take today's 1,200 words
+3. Read through and highlight the most interesting 200 words
+4. Ask yourself: "What's the real question here?"
+5. Write that question in one sentence
+
+**Example from your piece:**
+*"If AI lets everyone create professional-quality invitations/marketing/art, what happens to our attention, our communities, and our sense of what's 'special'?"*
+
+That's your question. You don't need to answer it yet.
+
+## About Your Brother
+
+**Stop worrying about whether he'll listen.** 
+
+Your brother is not your editor or your audience assessment committee. He's your accountability partner. Send him stuff because:
+- It makes you finish things
+- You want to share ideas with someone you care about
+- He might find it interesting
+
+If he listens, great. If he doesn't, you still practiced writing.
+
+**Better use of your brother:**
+- Send him the ONE-SENTENCE question version first
+- Ask: "Does this seem interesting to you?"
+- If yes, send the 500-word version later
+- If no, you saved him time and learned what resonates
+
+## The "Funnier Everyday" Integration
+
+You asked about this yesterday, then abandoned it today. Here's how to actually combine them:
+
+**Daily (5-10 min):**
+- Morning: Write one joke observation for your brother
+- No essay required, just the joke
+- Send it
+
+**3x per week (30-45 min):**
+- Longer generative writing (like you did today)
+- Keep it separate from the daily joke practice
+
+Don't try to do everything every day. That's how you burn out.
+
+## The Real Issue: You're Trying To Sprint A Marathon
+
+You want to:
+- Write video essays
+- Become funnier every day  
+- Master AI tools
+- Understand the singularity
+- Create world-class content
+- Maintain your job and family
+- Do it all *right now*
+
+**That's not a plan. That's anxiety.**
+
+Pick ONE thing for the next 30 days:
+
+**Option A: Funnier Everyday**
+- One joke per day to your brother
+- Track what makes him laugh
+- No other writing required
+
+**Option B: Video Essay Practice**
+- Weekly observation → distillation → short piece
+- Build toward one 500-word essay after 4 weeks
+- No jokes required
+
+**Option C: Exploratory Writing**
+- 3x per week generative sessions (like today)
+- Just think through writing
+- No finished product required
+
+You cannot do all three simultaneously while also working and parenting. Pick one. Do it for 30 days. Then reassess.
+
+## About The AI Invitation Question
+
+Your actual insight was good: **We're entering an era where everyone can produce professional-quality creative work, which might shift attention from "big" professional productions to hyperlocal personal ones.**
+
+That's interesting! But it's not something you need to "solve" today. It's something to observe and think about over time.
+
+The invitation story could become:
+- A 500-word reflection on AI and community attention
+- Part of a longer essay on the democratization of creativity
+- A conversation starter with your brother
+- Nothing at all (just thinking for yourself)
+
+All of those are valid. Stop punishing yourself for not "finishing" something you never started.
+
+## Tomorrow's Actual Assignment
+
+**10 minutes, that's it:**
+
+1. Read today's 1,200 words (5 min)
+2. Write the core question in one sentence (2 min)
+3. Send that ONE SENTENCE to your brother (1 min)
+4. Stop (2 min for closing your laptop)
+
+That's the whole assignment. If you do that, you succeeded.
+
+Then pick whether you want to do "Funnier Everyday" (daily jokes) OR "Video Essay Practice" (weekly writing) for the next 30 days. Not both. One.
+
+What will it be?

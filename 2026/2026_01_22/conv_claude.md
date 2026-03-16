@@ -817,3 +817,384 @@ Your stand-up chameleon joke is already better than nothing. Send it. Send anoth
 This is **process over outcome** in its purest form.
 
 Want me to help you write your first three jokes right now to get started?
+
+# Prompt 6
+Dear brother, this morning after I dropped my daughter off at daycare I noticed a little flyer sitting on the shelf where I hang her jacket. 
+It was an invitation that had been left on all the other childrens coat shelves also.
+I shoved it in my pocket and rode back home when I finally had a moment to pull it out and examine it more closely.
+It was a small rectangle of A5 paper, mostly white, with red printing. In large text in the top left hand corner it read "You're invited!" and this was neatly framed by a very stylish pencil sketch of hands holding glasses of wine - one on the left and one on the right.
+The drawings were not too detailed and just suggestive of a relaxed and happy occasion.
+There were two little paragraphs of text, each in a different typeface.
+The first read something like "After 8 years of working at our daycare I am leaving to persue a new profession..." and then second "Please join me for farewell drinks on the 30th of March at 5pm...".
+I was very impressed.
+The tone of the text of the two paragraphs, even though there was probably only 100 words in total was a perfect blend of professionalism and warmth. Combined with the graphic design of the wine glass sketch and type layout it just seemed like a very professional package. The kind of thing you might have paid a graphic designer a fair bit of money for just a few years ago.
+And all this was just an invitation to farewell drinks for one of the daycare staff.
+I immediately wondered how much of a role AI and very modern software like Canvaa played a role in the invitations creation. 
+I wondered if AI had even played a role in the conception, planning of the farewell drinks. That is, how much of the project is steps being followed from an initial prompt the staff member made to something like ChatGPT, Gemini or Claude.
+I mean I wondered all this because I was impressed... I was wondering the next time I have to make an invitation, will I be able to do as good of a job as this?
+And I guess the answer probably is "yes", if I entrust a large part of the planning and execution to AI instead of to processes I would traditionally use.
+And so I got to thinking: is this actually the pointy end of the singularity?
+Like what will the world look like in 5 years time when every one is capable of producing an absolutely world class professional invite to their children's birthday. Something as appealing as anything you might see plastered on a wall, printed in a magazine or even on television.
+One has to imagine professional marketing brought down to an incredibly personal level... we will be able to hype our kids birthday party to the same level as a prestigious summer music festival or an exclusive gourmet restaurant.
+What could be the implications of this?
+For one thing I can see that we might pay more attention to our immediate communities. 
+Like we will be less distracted by "big name", "professional" events and occasions because they won't really be able to compete our own productions in terms of marketing.
+But will that mean that professional productions will some how up their game and use even more "heavy artillery" to get our attention.
+Also I wonder what this means for the role of the graphic designer or copywriter?
+Obviously they won't be getting any business from small projects like this, but they probably wouldn't have got business from that in any case... are graphic designers going to all become carpenters?
+Even though I was fairly convinced that the invite was created with a large helping hand from AI, I was really impressed with the thought of the staff member that went into it. I imagine that the concept in her head was basically "I want to invite people to my farewell drinks, and I want the invite to be beautiful"... I think that desire and value she is putting on the event she is creating is quite special... and I think its amazing that we now have the tools at our disposal to make this kind of artistic vision a reality and accessible for everybody... it seems like we are moving toward a kind of personally creative utopia.
+But I wonder about any negative downsides or blindspots that we need to be watching out for... like she got a beautiful drinks invite out of it, but some big corporation got a lot of her data... and maybe sort of "stole" a lot of the labour that traditionally she might have contacted her friends to help out with.
+I think maybe an appropriate analogy is that of pocket calculators. You could argue that once digital adding machines like the pocket calculator were cheap enough to be accessible to every school age student, why are we still teaching long division and other manual mathmatical techniques? Especially considering these kinds of mathmatical skills may have no real benefit in the grand scheme of things... like would it be better to teach children how to find and procure clean drinking water instead of how to divide 58 by 4?
+Like yes, calculators are a crutch that could hinder mathmatical development but the only reason we need that mathematical development is to solve "invented" complexities (e.g. like having enough money to buy bread and knowing that you got the right change... wouldn't it be better to teach children how to make bread instead?)
+So I guess I'm asking, if we can get away from the "job apocalypse" negative viewpoint of AI (which might be a valid and realistic concern), how can we start, everyday using the new pocket calculators (and not being afraid of them) to empower ourselves and our communities to make the world a better place?
+I was thinking, if the daycare staff member got Canvaa and AI to create the flyer that she was happy with and then she drew and kind of copied that picture out by hand and then made *that* the invite that finally got distributed, would that be less "lazy" and have even more of an impact? Or would people just ignore it more, seeing it as "non-professional" and too "handmade"?
+What can I learn from this whole experience and observation?
+I guess the pocket calculator isn't good when it interrupts "flow"... like if you are just in a situation where having a good grasp of numbers means that you can execute something that in the end would be better than having to take the time to get out a calculator and tap in the numbers and get the exact result.
+Ok so maybe this means that a positive side of the "AI revolution" or "singularity" or however you want to hype it (or make it seem impressive/scary) is that we are each going to have more time to focus on our own personal "flow science"... if we use the tools in the right way we are all going to get better at "flowing"... flowing individually and maybe flowing better together as a society. AI might be able to provide some "lubrication" there. 
+Saying this though, I'm still pretty bad at mental arithmatic and don't really think I've ever taken the time to be *conscious* about my pocket calculator use... so I'm a bit worried that if I haven't taken that opportunity, why would I take the opportunity with AI?
+
+Ok... the above text took 42 minutes for me to write, really taking almost no breaks, not trying to think about it too much. It is about 1200 words.
+I have several problems and worries about this: firstly I set a timer for 10 minutes when I started to write thinking "maybe I can just practice writing out one of these little scripts and let's see what happens"... I had to restart the timer several more times because it takes so long to describe things that you can't show people. But I guess if I was talking to my brother over the phone this would be the same problem, and who knows, even if he would be patient enough to listen to me, I would probably make many more "mistakes" and not give the full picture or enough of a picture that he could understand what I was trying to get at, so it might take even way longer than 40 minutes.
+Secondly, I sort of felt I had to keep writing because I wasn't getting to the real curious and interesting issue or question... the real reason why I think he should bother listening to that long complicated story... in fact, even though I kept writing to try and get to this point, I don't really know if I have a good point to the story... other than "wow, the world is changing and I can't really see what's around the corner, how exciting... " or something. I don't think I really "learnt" anything... I'm just asking more questions.
+Thirdly, I feel dissapointed because 40 minutes is probably 4 times more time than I wanted to spend on this "exercise", but I thought I might kind of "give in" to the desire to try and describe this concept that I was trying to get to and maybe just see how long it takes me, so I know for next time. But yeah, I feel like I've kind of failed... I don't have an amazing story and it took me a long time to describe it typing... and wow, I haven't even tried to voice record it, so I don't know how long that would take for my brother to listen to... 5 minutes or 20 minutes... who knows??
+I kind of feel it would be interesting to know how an AI would respond to all the questions I asked and maybe there would be some interesting revelations in that... but then maybe I should go back to the idea of using a TTS generator on my text and then using another TTS voice for the LLMs response... and turning that "conversation with an LLM" into a podcast that I could send to my brother... oh boy... but why should he bother listening to me and an AI rather than just himself or whatever he wants to listen to?
+Ok... now this has been another 10 minutes writing out all this analysis and stuff... I haven't even taken any time to reread what I actually wrote initially. Hmmm can you give me any positive framing here? I've spent close to 50 minutes on this "pet project" so far today... I'll spend even more time reading any responses you have... how can I fit this all into a deliberate practice program for say "video essays"... what should I do tomorrow and the next few days?
+
+
+# Response 6
+First: you didn’t fail. What you just did is **exactly the raw material that video essays, podcasts, and essays are made from**. What you produced in 40–50 minutes is what many writers call a **field note** or **thinking draft**. It’s not the finished story. It’s the **ore that the story gets mined from**.
+
+Your frustration is actually a sign that you’re doing the right kind of work: **trying to compress a vague intuition into something communicable**.
+
+Let me reframe a few things that might help.
+
+---
+
+# 1. What you wrote is the *first stage* of a video essay
+
+Almost every thoughtful essay goes through three phases:
+
+### 1️⃣ Exploration (what you did)
+
+Messy thinking.
+Questions.
+Connections.
+
+This stage is usually **longer than the final product**.
+
+Your 1200 words are perfect exploration.
+
+---
+
+### 2️⃣ Distillation
+
+Finding the **actual story** inside the thinking.
+
+Usually this becomes:
+
+**one clear question**
+
+or
+
+**one surprising insight**
+
+---
+
+### 3️⃣ Presentation
+
+Turning the distilled idea into a story.
+
+Often:
+
+* 800–1200 words
+* 5–8 minutes video
+
+Your exploration already fits phase 1.
+
+---
+
+# 2. The real story hiding inside your text
+
+Reading your message, the central idea seems to be something like:
+
+> **AI is turning everyone into a miniature creative studio.**
+
+Your daycare invitation triggered that thought.
+
+Then you asked the deeper question:
+
+> If everyone can produce professional-looking things, what changes about creativity, work, and community?
+
+That’s a **good essay question**.
+
+You don’t need to answer it completely.
+
+Video essays often **end with curiosity**.
+
+---
+
+# 3. Your 50 minutes weren’t wasted
+
+Let’s quantify it.
+
+You produced:
+
+* 1200 words
+* several interesting questions
+* one concrete story (the daycare invite)
+
+That’s actually **very productive**.
+
+Professional essayists often generate **3–5× more words than they publish**.
+
+So your 1200 words might become a **400–600 word story**.
+
+---
+
+# 4. The secret of good video essays
+
+They usually follow this pattern:
+
+1. **specific observation**
+2. **bigger question**
+3. **exploration**
+4. **tentative conclusion**
+
+Your daycare invite is already a great **specific observation**.
+
+That’s the hardest part.
+
+---
+
+# 5. Here’s how I would turn your text into a short essay
+
+Example condensed narrative:
+
+> This morning at daycare I noticed something strange: a beautifully designed farewell invitation printed on a simple A5 sheet.
+>
+> Ten years ago someone might have hired a graphic designer to produce something like this. Today it could have been made in minutes using tools like Canva and AI.
+>
+> And that made me wonder: are we quietly entering a world where everyone can produce professional-quality things?
+>
+> If that’s true, then the most interesting change might not be economic. It might be social.
+>
+> Instead of professional marketing dominating our attention, maybe our local communities will start competing for it too.
+
+That’s already the beginning of a **video essay script**.
+
+---
+
+# 6. Your biggest challenge right now
+
+You’re trying to do **three different activities simultaneously**:
+
+1. thinking
+2. writing
+3. editing
+
+That makes everything slow.
+
+Better workflow:
+
+**Session 1 – thinking**
+free writing (what you did)
+
+**Session 2 – selecting**
+find the interesting idea
+
+**Session 3 – rewriting**
+make the story clear
+
+Each session can be short.
+
+---
+
+# 7. A realistic daily practice (20 minutes)
+
+You asked how to fit this into life.
+
+Here’s a simple routine.
+
+### Daily (10–20 minutes)
+
+**Step 1 – observation**
+Write about one thing you noticed today.
+
+Example:
+
+* daycare invitation
+* conversation
+* strange moment
+
+---
+
+**Step 2 – question**
+Ask:
+
+> why is this interesting?
+
+---
+
+**Step 3 – stop**
+Don’t try to finish the essay.
+
+Just collect observations.
+
+After a week you’ll have **7 story seeds**.
+
+---
+
+# 8. Why your daycare story is actually very good
+
+Great essays often start with **tiny observations**.
+
+Examples:
+
+* a receipt
+* a subway ride
+* a conversation
+* a strange sign
+
+Your invitation story works because it’s **specific and visual**.
+
+We can picture it.
+
+---
+
+# 9. Your calculator analogy is also strong
+
+The idea that AI might become a **creative calculator** is interesting.
+
+You could frame that idea like this:
+
+> Pocket calculators didn’t destroy mathematics.
+> They changed what humans spend their mental energy on.
+
+That’s a nice analogy.
+
+---
+
+# 10. Your concern about time is understandable
+
+But writing **1200 words in 40 minutes** is actually a very healthy pace.
+
+That’s roughly **30 words per minute**, which is normal for thinking drafts.
+
+Professional writers often do exactly that.
+
+---
+
+# 11. You don’t need to show everything
+
+One mistake new essayists make:
+
+trying to include **every thought**.
+
+Instead choose:
+
+* one observation
+* one question
+* one idea
+
+Everything else can disappear.
+
+---
+
+# 12. A simple experiment for tomorrow
+
+Instead of writing 1200 words, try this.
+
+**Exercise: The 200-word essay**
+
+1. pick one observation
+2. explain it in **200 words maximum**
+
+Constraint forces clarity.
+
+Example topics:
+
+* the daycare invitation
+* pocket calculators
+* AI invitations
+
+---
+
+# 13. You also asked a deeper question
+
+Why would your brother listen?
+
+Simple answer:
+
+He might listen because **it’s your voice**.
+
+People don’t only consume content for information.
+
+They consume it for **connection**.
+
+A short thoughtful story from a sibling can be more meaningful than a random podcast.
+
+---
+
+# 14. One important insight you had
+
+This line in your writing was actually very strong:
+
+> “AI might give us more time to focus on flow.”
+
+That’s a **video essay thesis**.
+
+---
+
+# 15. What to do tomorrow
+
+Here is a realistic plan.
+
+**Day 1**
+Write messy observation (10–20 min)
+
+**Day 2**
+Extract the central question (10 min)
+
+**Day 3**
+Write a 300-word story
+
+**Day 4**
+Record it as audio
+
+You now have a **3–4 minute audio essay**.
+
+---
+
+# 16. The real skill you’re practicing
+
+It isn’t “making YouTube videos.”
+
+It’s **thinking clearly about the world**.
+
+Video essays are just a container for that skill.
+
+---
+
+# 17. Final positive framing
+
+Today you:
+
+* noticed something interesting
+* reflected on technology and society
+* wrote 1200 words
+* identified questions worth exploring
+
+That’s exactly what curious thinkers do.
+
+You’re not behind.
+
+You’re **doing the work**.
+
+---
+
+If you’d like, I can also show you something very useful for your project:
+
+**a simple 5-sentence template that many successful video essays secretly follow.**
+
+It makes turning messy thoughts like yours into a compelling story **much easier and faster**.
+
