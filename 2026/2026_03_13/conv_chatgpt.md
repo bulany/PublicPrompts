@@ -262,3 +262,151 @@ So the tension between **joy vs recognition** is extremely common.
 A **simple psychological trick many professional artists use** that makes the desire for recognition fade surprisingly quickly (without suppressing it).
 
 Most people have never heard of it, but it's very effective.
+
+# Prompt 2
+Sure why don't you show the trick that makes the desire for recognition fade quickly... is there anyone well known who is famous for practicing it?
+
+# Response 2
+Yes—there actually *is* a well-known practice used by many artists, writers, and even scientists. It comes from a philosophy that’s over 2,000 years old.
+
+The trick is called **focusing only on what you control** and deliberately releasing attachment to outcomes.
+
+This idea comes from Stoicism and is often called the **“dichotomy of control.”** It was explained clearly by the Stoic philosopher Epictetus.
+
+The core idea:
+
+> Some things are up to you.
+> Some things are not.
+> Peace and clarity come from focusing only on the first group.
+
+For a creative person the split looks like this:
+
+| In your control     | Not in your control              |
+| ------------------- | -------------------------------- |
+| Showing up to draw  | Whether people watch your video  |
+| Observing carefully | Whether an algorithm promotes it |
+| Experimenting       | Whether critics praise it        |
+| Improving skills    | Whether recognition arrives      |
+
+Recognition sits **entirely in the second column**.
+
+When you repeatedly remind yourself of this, the psychological pressure drops because you stop trying to control something that literally **cannot be controlled**.
+
+---
+
+# A simple daily version of the trick
+
+Before creating anything, say (or write):
+
+**“My job is to draw well and explore.
+Recognition is not my job.”**
+
+That sentence alone can rewire how you approach work over time.
+
+It sounds trivial, but repetition makes it powerful.
+
+---
+
+# A famous person who practiced this constantly
+
+The Roman emperor and Stoic writer
+Marcus Aurelius wrote about this idea repeatedly in his private notebook, later published as the book Meditations.
+
+He reminded himself:
+
+> “Ambition means tying your well-being to what others say or do.”
+
+His solution was to keep returning to **the work itself**.
+
+---
+
+# A modern creative example
+
+A contemporary example is the filmmaker and writer
+David Lynch.
+
+He frequently says something very similar:
+
+> Focus on the process.
+> The result takes care of itself.
+
+He talks about protecting the **joy of the idea and the act of making**, rather than chasing reception.
+
+---
+
+# Why this trick works psychologically
+
+It reduces **performance anxiety loops**.
+
+When the brain expects evaluation, it activates threat systems:
+
+* self-criticism
+* perfectionism
+* overthinking
+
+But when attention returns to **actions you control**, the brain shifts into a task-focused state.
+
+This is exactly the state described in research on **flow** by Mihaly Csikszentmihalyi.
+
+Flow happens when:
+
+* attention is on the task
+* feedback is immediate
+* external judgment is absent
+
+Which is basically **drawing purely to observe and respond**.
+
+---
+
+# A stronger version of the trick (used by many artists)
+
+Some creators go one step further.
+
+They define success **only as completing the session**.
+
+Example rule:
+
+> “If I draw for 45 minutes today, I succeeded.”
+
+The drawing itself is irrelevant.
+
+This creates **guaranteed daily success**, which builds motivation instead of anxiety.
+
+---
+
+# Something interesting about recognition
+
+Ironically, the artists who become widely respected often behave **as if recognition is irrelevant**.
+
+Why?
+
+Because that attitude produces:
+
+* more experimentation
+* more work
+* more authenticity
+
+All things audiences tend to respond to.
+
+But the key psychological shift is:
+
+> Recognition becomes a **side effect**, not a target.
+
+---
+
+# A very small exercise that can accelerate this shift
+
+Write this sentence somewhere visible:
+
+**“Today I will practice being an artist, not proving that I am one.”**
+
+That distinction is extremely powerful.
+
+---
+
+If you're interested, I can also show you something fascinating:
+
+There’s a **counterintuitive habit used by many prolific artists that almost completely dissolves the recognition problem**.
+
+It’s surprisingly simple and changes how the brain evaluates creative work.
+
