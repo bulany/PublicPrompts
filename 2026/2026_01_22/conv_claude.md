@@ -1362,3 +1362,167 @@ The only failure here is punishing yourself for doing exactly what creative peop
 
 What do you actually want to do tomorrow? Not what you "should" do. What sounds interesting to you?
 
+# Prompt 8
+Its the next day and I just want to add a few more things to this conversation so I don't forget them...
+
+ - I guess "funnier everyday" is a good project, but realistically this would have to be founded on a "healthier everyday" project... well I mean... healthier everyday should definitely be a goal, maybe a more fundamental goal, I'm sure being funny is part of being healthy but yeah I would be keen to hear about how some of these routines and rituals might be applied to a "healthier everyday" goal... and I guess how that relates to the whole PRAY thing.
+ - One thing I heard that Quincy Jones did for his whole life was "follow the goosebumps" and it seems like he lived a pretty artistically fulfilled life... this would be another goal of mine is to really get better at noticing and following the goosebumps... to that mind, there is a piece of music that usually gives me goosebumps when I hear it, its called Kaval Sviri and I heard it sung by the Bulgarian State Radio and Television Female Vocal Choir. This version is my favourite, but I've also heard it sung by a guy who made his own version by overdubbing is own vocal (and video) takes to create a youtube video. I think this is a really inspiring project because he really "made the song his own", because by singing all the parts himself he would have to have understood the music very well... I wonder if it would be possible to do a "more musical everyday" sort of project where the end result would be a clip of my own singing that I'm very delighted to share with people. In my minds eye, I would have my own software that would allow me to practice and perfect very small and isolated parts of Kaval Sviri and then gradually put them together. Maybe this way I could really get closer to understanding those goosebumps.
+
+Ok that was 331 words in about 10 minutes... again I feel totally off track and not taking the time to go back over anything or whatever... trying to tell myself getting the thoughts out is a good thing lol
+
+# Response 8
+You're not off track. You're circling closer to what you actually want.
+
+## What You Just Revealed
+
+**Three interconnected goals:**
+1. **Healthier Everyday** - Foundation (body/mind baseline)
+2. **Follow the Goosebumps** - Navigation system (what actually matters to you)
+3. **More Musical Everyday** - Concrete practice (Kaval Sviri project)
+
+These aren't competing priorities. They're the same thing from different angles.
+
+## The Goosebumps Are Your Compass
+
+Quincy Jones' "follow the goosebumps" is **literally the PRAY framework in practice**:
+- Goosebumps = your body telling you "this is the horizon, go here"
+- Anxiety/guilt/fear = your body saying "you're fixating on pebbles"
+
+You get goosebumps from Kaval Sviri. That's your signal. That's where your attention *wants* to go.
+
+The YouTube guy who overdubbed himself understood something crucial: **deep engagement with one beautiful thing beats shallow engagement with many "productive" things**.
+
+## Your Actual Project Just Became Clear
+
+**"More Musical Everyday" via Kaval Sviri**
+
+This solves everything:
+- Daily practice (ritual/routine)
+- Health connection (breath, voice, body awareness)
+- Following goosebumps (you already know this gives you joy)
+- Concrete output (eventually a recording you're proud of)
+- Process over outcome (learning one phrase at a time)
+
+**And it includes "Healthier Everyday" automatically:**
+- Singing requires breath control (nervous system regulation)
+- Learning music requires attention control (PRAY practice)
+- Creating something beautiful reduces anxiety (documented effect)
+- Daily practice builds routine (health foundation)
+
+## The Simple Plan
+
+**Daily (10-15 minutes):**
+- Listen to Kaval Sviri once
+- Learn/practice ONE phrase (maybe 4-8 bars)
+- Record yourself singing it (phone is fine)
+- **Success = did the 10 minutes**
+
+**Weekly:**
+- Listen to all your daily recordings
+- Pick the best one
+- Practice that phrase more deeply
+- Send it to your brother (or don't)
+
+**Monthly:**
+- Choose which phrases you've learned
+- Start layering them (if you want)
+- Or just keep learning new phrases
+
+**Eventually (3-6 months?):**
+- You'll know the whole piece
+- You can record yourself
+- You'll understand those goosebumps
+
+## Why This Works
+
+**It's concrete:** Not "become healthier" but "sing this specific song"
+
+**It's measurable:** You either practiced today or you didn't
+
+**It follows goosebumps:** You already know this music moves you
+
+**It's forgiving:** One phrase per day is achievable even when tired
+
+**It trains everything:** Breath, attention, discipline, joy
+
+## About "Healthier Everyday"
+
+You're right that funny everyday needs health as foundation. But **"healthier" is too vague to practice**.
+
+Better frame: **What does health feel like in your body?**
+
+For many people: Breath, movement, attention, joy.
+
+Singing Kaval Sviri gives you all four:
+- **Breath** - Singing requires breath control
+- **Movement** - Even subtle (resonance in body)
+- **Attention** - Must focus on pitch, rhythm, phrasing
+- **Joy** - You get goosebumps from this music
+
+That's "healthier everyday" in disguise.
+
+## The Software You Described
+
+You mentioned wanting software to practice isolated parts. Good news: this already exists.
+
+**Free tools:**
+- **Audacity** - Slow down audio, loop sections, record yourself
+- **Amazing Slow Downer** - Practice at different tempos
+- **Voice Recorder app** - Just record daily takes
+- **GarageBand/Reaper** - Layer multiple vocal takes (for later)
+
+**The process:**
+1. Load Kaval Sviri into Audacity
+2. Loop a 10-second phrase
+3. Slow it down 50%
+4. Learn it at slow speed
+5. Gradually speed up
+6. Record yourself when ready
+7. Move to next phrase
+
+But honestly? **You might not need software yet.** Just listen, sing along, record. The software comes later when you're ready to layer.
+
+## Your Actual Tomorrow
+
+**10 minutes, that's it:**
+
+1. Listen to Kaval Sviri (2 min)
+2. Pick one phrase that gives you goosebumps (1 min)
+3. Sing along with that phrase 5 times (5 min)
+4. Record yourself singing it once (1 min)
+5. Save the recording (1 min)
+
+Done. That's "More Musical Everyday."
+
+Do that tomorrow. Then the next day. Then the next.
+
+After 7 days, you'll have learned 7 phrases (or practiced 1 phrase deeply). Either way, you'll have done something beautiful.
+
+## About Brain Dumps
+
+You wrote: "trying to tell myself getting the thoughts out is a good thing lol"
+
+**Stop "trying to tell yourself" and just accept it:** Getting thoughts out IS the thing. That's the practice. You're a writer who processes by writing.
+
+These aren't distractions from your "real" work. They ARE the work.
+
+But if you want to do something besides writing, do the music practice. It's the same skill (attention control) through a different medium (sound instead of words).
+
+## The Real Question
+
+You keep saying you feel off track. But off track from what?
+
+- You don't have a deadline
+- You don't have an employer waiting
+- You don't have a specific outcome required
+
+**You have time to think and create.** That's all.
+
+So: Do you want to keep brain dumping thoughts? Or do you want to practice singing?
+
+Both are valid. Both are healthy. Both are "on track."
+
+Just pick one for the next 7 days and do it.
+
+What sounds more interesting right now: writing or singing?
+
