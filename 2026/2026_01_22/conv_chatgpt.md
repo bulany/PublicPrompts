@@ -2726,3 +2726,814 @@ That would connect:
 
 …and give you a real sense of progress.
 
+# Prompt 9
+The slide rule.
+I keep trying to work out an ideal routine for how I should work right now. But I feel like its going to change everytday.
+The technology is moving so rapidly.
+Like now I'm typig on a keyboard, I type a big prompt, I subnit this prompt to an LLM and then I wait for its results.
+I think that's a good thing, like it can help me do stuff that would have taken a lot longer to do before.
+For example I can just describe an app or a website I want to create and it will go off and make a first draft.
+But this workflow is surely going to change as the tools evolve.
+They are only in their very early stages I feel.
+I actually feel they are sort of in the "steam train| phase. 
+I asy this because the the massive amounts of energy it takes to do the training runs remind me a of big, heavy  and inefficient steam train s
+Like when the steam trains evolve intoelectic byscles or cars or even efficient internal combustion engine cars, we are going to be doing things very differently.
+So what skills to practice right now in thes time of change?
+What crat to practice and invest time in?
+One of the best analogys I can think of is the slide rule (and the slide rule industry). 
+I remember finding a slide rule in an old drawer of my dad's things and not knowing what it was.
+I wen through four years of an engineering school and no one ever even mentioned a slide rule, and I never saw one at that university.
+But I imagine at one time it was different.
+Maybe at the time slide rules werwe just coming out, engineers were like: this is it! this is the new thing.
+And there were would have been a period of time were it was like, yeah, you can make a living by knowing how to use a slide rule and using it effectively. And there would have been an industry around manufactuing slide rules. And there woul dhave been higher quality and lower quality ones.
+I feel like we are living a slide rule moment right now But our slide rule industryu is a whole lot of industries... like for example, take academic research... I think this is a really good example...
+What I know is this: to do proper academic research, one of the first steps is conducting a literature review, where you manually go and look up all the literature on a subject and read it and absorb it and integrate it into your ideas.You note down the references and all that stuff.
+Well now I really feel we are at the stage where you can do that in the click of a button... like the manual looking up a slide rule table process has been replaed with a pocket calclator of an LLM that has access to all the literature ever published.
+And I feel like at that moment that slide rules started to get replaced, maybe if we szoomed in on the time scale, we woudl have seen people histating about the diretion things would go: some people might have been saying "slide rules will always have a place" and some other people would have been saying different things... and one thing that is sure, the people who made fortunes from making slide rules... well, they would have had to have found something else to do.
+I feel its not just academic research that in this slide rule situation, its : photographers, graphic designers, musiciens, oh yeah of course creative writers... its kind of like we just didn't realise before that these were "slide rule" jobs... this kind of crept up on us... the real circular part is that it feels like the people who made the biggest fortunes in this current slide rule era (im thinking of people like Bill Gates)... like Ilets say that the infrastructure to run LLMs cheaply and locally and privately becomes widesperead, just like pcoket calculators becane widespread (e.g. I remember when I was. kid you could buy plastic rulesrs that had an integrated solar powered calculator for what seemed likea few dollars - it was that cheap and accesible and sort of open source... like no one quetioned whterh the cheap claculator worked properly or as well as an expensive calulator... it did the job and thats what was important)
+So yeah I feel like industryes are changingand the computer industory has sort of brought this change about on itself... and I dont think we'll really know what to do until things "stabilise"... like after slide rules went out then tI think there was a period of stability where we said ok, now slets build from these new foundations.
+But yeah I think its difficult to image now how we are going to be interacting with "coputers" in the near future because of this seismic LLM shift.
+Liekk the saydof having to know how to program a VCR are really in the past... its like we have to rhink why you would even want to watch a television show (and if thats important, why not recreate that video content from a prompt etc.
+
+Ok that text took me 22 minutes to write and was about 900 words.
+I typed it mostly with my eyes closed so sorry there are probably many faults.
+But yeah I would love your comments on the questions raised and what you think of this analogy and whether the actual history of slide rules can be instructive to what we are going through right now.
+
+I just had a small break and quite a number of thoughts came up.
+Like the moment I connect my laptop to the internet and submit this prompt, yeah it feels like I'm Kasparov in the 80s going. up against Deep Blue... I still have this notion that I have something original to contribute or yeah, the outcome is important and really I don't know that I'm in for a big shock: Deep Blue is going to crush me and will crush me forever going forward from now. I think we are all gong through this Kasparov moment, or the Lee Sedol moment or whatever you want to call it.
+And yet people still play chess to this day - right?
+What is important?
+Like probably pretty soon, someone will build a robot that can execute a pefect kickflip on a skateboard, and a kickflip in the style of any skater you prefer... just take your pick... and it will probably work out how to do an even better, higher kickflip than any of these people... so should we give up trying to do kickflips? Like there is some pleasure in doing the kickflip for oneself and not just sitting back and watching a robot do it right? But yeah, am I saying that there's pleasure in using a slide rule, so we should keep that tradition alive? It doesn't look like much fun to me, but I've never really tried it so maybe I don't know. Is there a difference between slide rule usage and kickflips, and what is that difference? One brings joy and a sense of achievement to the person practicing it?
+Hmmm... more thoughts, more questions... and now you know them all lol
+Your move Deep Blue! 
+Ha! but why am I thinking this is a "competition"?
+Is there a more collaborative kind of example than this "head to head", "man vs machine" paradigm I seem to be stuck in? Maybe if that had a catchy name like "Deep Blue" I could get behind it.
+We grew up with people like Leonardo Da Vinci, Bach and Nicola Tesla as sort of role models or aspirational targets... and now it feels like they can be condensed into a pocket calculator... like an LLM will be able to crank out work as good as Bach's and in Bach's style everyday for the rest of our lives and for all occasions... so what's left for us to do. There is a power drill that can make the hole in 5 seconds which would have taken us a day to do before... what next?
+Someone I know said "get rid of everything in your life that's not bringing you joy"... that seems a bit harsh and hard to do, but also kind of makes some sense... someone asked this same person jokingly "does that apply to husbands too?"... and his response was "yes! it does!"... which also kind of makes some sense but it seems crazy... like would you be at risk throwing the baby out with the bath water? Like maybe its not the person that's the problem (that's taking away from your joy) but the way you are relating to each other?
+Would Frances Burnett Hodgkin (the Secret Garden) say that one solution or medicine is make sure you are in contact with the "magic"... like how to be in touch with and surrounded by that magic everyday? Is that where we might find meaning and purpose?
+If you were a human, what would you prioritise doing? What would be your "must do's" everyday? What would be on your list?
+Anyway... that's probably enough for now.
+
+That's another 10 minutes writing and about 350 words... so in total around 1200 words in 35 minutes.
+
+# Response 9
+This is one of the most grounded and important questions you’ve asked so far. Underneath all the analogies—slide rules, Kasparov, kickflips—you’re really asking:
+
+> **“What is worth practicing when tools can do almost everything?”**
+
+Let’s go carefully and honestly.
+
+---
+
+# 1. Your slide rule analogy is actually very good (with one twist)
+
+The transition from slide rules → calculators is real and instructive.
+
+What happened?
+
+* **Slide rule skill became obsolete**
+* **Mathematics did not**
+* **Engineering became more powerful**
+
+So the key lesson is:
+
+> Tools replace **methods**, not **goals**
+
+People didn’t stop solving problems.
+They just stopped doing **manual computation**.
+
+---
+
+### The twist (important)
+
+LLMs are *not just calculators*.
+
+They operate on:
+
+* language
+* ideas
+* creativity
+* reasoning (to some extent)
+
+So they are closer to:
+
+> **a collaborator that can draft thinking**
+
+That’s new.
+
+---
+
+# 2. So what doesn’t get replaced?
+
+Let’s separate things clearly.
+
+### Likely to be replaced or heavily reduced:
+
+* manual research gathering
+* basic coding boilerplate
+* standard design work
+* generic writing
+
+These are your “slide rules.”
+
+---
+
+### Not replaced (or becomes more important):
+
+#### 1. **Taste**
+
+Knowing what is good, meaningful, or interesting.
+
+#### 2. **Judgment**
+
+Deciding what to pursue, what matters, what’s true enough.
+
+#### 3. **Direction**
+
+Choosing the problem, not just solving it.
+
+#### 4. **Embodied experience**
+
+Doing things physically (music, sport, relationships)
+
+#### 5. **Attention**
+
+What you choose to focus on.
+
+---
+
+These are *not* easily automated.
+
+---
+
+# 3. Your Kasparov / Deep Blue instinct is natural—but slightly off
+
+You mentioned:
+
+* Garry Kasparov vs Deep Blue
+* Lee Sedol vs AlphaGo
+
+Important observation:
+
+👉 Humans didn’t stop playing chess or Go.
+
+In fact:
+
+* chess became more popular
+* training improved using engines
+
+And something new emerged:
+
+### **Centaur chess**
+
+Human + AI working together.
+
+This is the better model than “man vs machine.”
+
+---
+
+# 4. The kickflip vs slide rule distinction (this is key)
+
+You asked a really deep question:
+
+> Why keep doing kickflips but not slide rules?
+
+Here’s the difference:
+
+### Slide rule
+
+* purely instrumental
+* no intrinsic joy for most people
+* goal = correct answer
+
+---
+
+### Kickflip (or music, or art)
+
+* intrinsically rewarding
+* physical + emotional experience
+* goal = expression + mastery
+
+---
+
+So:
+
+> **We stop doing things that are only means**
+>
+> **We keep doing things that are ends in themselves**
+
+That’s a huge insight.
+
+---
+
+# 5. So what should you practice right now?
+
+Not tools.
+
+Not workflows.
+
+Those will change.
+
+Instead, practice **foundational human capacities**.
+
+---
+
+## 6. A grounded answer to your “what should I do daily?” question
+
+If I strip everything down, here’s a very realistic “human baseline”:
+
+### 1. **Care for your body**
+
+* sleep
+* movement
+* basic health
+
+Without this, nothing else works.
+
+---
+
+### 2. **Train attention**
+
+Your PRAY idea fits here.
+
+* notice where attention goes
+* redirect it deliberately
+
+This becomes more important in an AI world, not less.
+
+---
+
+### 3. **Follow goosebumps (taste development)**
+
+You mentioned Quincy Jones.
+
+This is huge.
+
+* what moves you?
+* what feels meaningful?
+
+That’s your compass.
+
+---
+
+### 4. **Make something small**
+
+Every day or often.
+
+* a joke
+* a paragraph
+* a musical phrase
+
+Not for output. For *practice of being a creator*.
+
+---
+
+### 5. **Connect with real people**
+
+Conversations, family, presence.
+
+This is not replaceable.
+
+---
+
+That’s already enough.
+
+---
+
+# 7. Your “power drill” insight is important
+
+You said:
+
+> If a drill can do it in 5 seconds, what do we do?
+
+Answer:
+
+We shift from:
+
+* **effort-based value**
+  to
+* **experience-based value**
+
+Example:
+
+* digging a hole manually = effort
+* playing music = experience
+
+AI removes effort in many areas.
+
+So meaning shifts toward:
+
+> **what is it like to do this?**
+
+---
+
+# 8. Your “get rid of everything that doesn’t bring joy” concern
+
+You’re right to be cautious.
+
+That idea can become destructive if taken literally.
+
+Better version:
+
+> “Notice what drains you unnecessarily, and what genuinely nourishes you.”
+
+Not everything must be joyful.
+
+Some things are:
+
+* responsibilities
+* long-term investments
+* relationships that require work
+
+---
+
+# 9. Your instinct about “magic” (from The Secret Garden)
+
+This is actually very relevant.
+
+That “magic” is basically:
+
+* attention
+* care
+* engagement with life
+
+It’s not technological.
+
+It’s experiential.
+
+---
+
+# 10. The real shift happening (your core insight)
+
+You said:
+
+> “We don’t know what to do until things stabilise”
+
+This is true historically.
+
+But here’s the deeper truth:
+
+👉 It may not stabilise quickly.
+
+So the strategy becomes:
+
+> **Don’t optimise for a specific tool**
+>
+> **Optimise for adaptability and clarity**
+
+---
+
+# 11. A better metaphor than “slide rule”
+
+Your analogy works, but here’s a refinement:
+
+Instead of:
+
+> slide rule → calculator
+
+Think:
+
+> **camera → smartphone → AI image generation**
+
+Photography didn’t disappear.
+
+It became:
+
+* more accessible
+* more personal
+* more about perspective than technique
+
+That’s closer to what’s happening now.
+
+---
+
+# 12. Final answer to your “Deep Blue” question
+
+You said:
+
+> “Your move Deep Blue!”
+
+Let me respond differently:
+
+It’s not a game you win.
+
+It’s a tool you learn to use.
+
+So the better question is:
+
+> “What kind of human do I want to be *with* these tools?”
+
+---
+
+# 13. A simple guiding principle (you can actually use this)
+
+When unsure what to practice, ask:
+
+> **Would this still matter if AI got 10× better?**
+
+If yes → invest
+If no → deprioritise
+
+---
+
+# 14. Final grounding
+
+You wrote ~1200 words again.
+
+That means:
+
+* you’re consistent
+* you’re thinking deeply
+* you’re engaging with real questions
+
+That’s not wasted effort.
+
+That’s the beginning of clarity.
+
+---
+
+If you want next, we can do something very concrete:
+
+👉 turn your **slide rule analogy + kickflip idea** into a clean 3-minute video script
+
+That would give you a sense of *closure* instead of just expansion.
+
+# Prompt 10
+I can't resist asking: why did Kasparov call it "Centaur chess"... like what's the Centaur reference?
+
+And I really like this Instrumental vs Autotelic distinction... these are new words that I'm not used to and will need a bit of time and experience with to get comfortable using. Are there some big names that famously discuss these terms?
+
+I remember in school when, I think it was the second year of high school, we were finally allowed to use calculators - I was so relieved. I found it much easier and quicker to get correct answers to problems. I did kind of wonder though, as calculators at that stage were very cheap and ubiquitous, why did we spend all those years doing the 'slide rule' long divisions? I guess maybe we picked up some estimation heuristics (but I don't think I did really because I still don't estimate before I use a calculator)... so whats going on there? And because the AI impact I feel is going to be much larger than the slide rule, pocket calculator thing... how is that going to change things in the average classroom. I mean my son is learning to do multiplication by hand at the moment... hmmm... I guess robots in the future will probably be able to make dinner too and yeah, we probably have a choice sometimes between taking the car and walking... hmmm, we are going to have to get quite good at recognising this difference... but you see, sometimes I see cooking dinner as a chore, and as for growing my own food... I don't know if its because I haven't got the patience or I have got the land... like it reminds me of when Kennedy said "we dont do these things because they are easy, we do them because they are hard"... but the modern marketing is so geared towards and so convincing about making my life easier... why cook when I can have food delivered? And why grow food when I can get it from the supermarket? Why draw water from the well if I can turn on the tap? There seems to be a balance there... but I reckon my brainwashing goes pretty deep, because even now I'm saying to myself "surely it wouldn't be more pleasurable to find your own drinking water"... but probably sometimes it would. How are we going to stay motivated to keep evolving in a good direction
+
+I think I defintely want to tell or spread that slide rule story... so maybe that's another idea for a video essay script... but I like your "no pressure" encouragement... I will keep writing or playing or doing or looking for the things that give me goosebumps (or trying at least).
+
+And hey this might be a good time to ask... if I was to start a fresh conversation with an LLM that didn't have any context but wanted to give it a bit of background of where we have got to so far (e.g. like a fresh question that I sort of want to start a different thread for like a little story about how I keep losing my temper and how I want to try and change that)... could you draft a bit of a prompt template that gives a bit of background and that leaves me space to ask a new question or to continue that "prompt jam" in a new direction?
+
+# Response 10
+Great questions — and you’re circling some really deep territory again, but in a more grounded way this time. Let’s go piece by piece.
+
+---
+
+# 1. Why “Centaur chess”?
+
+The term comes from Centaur — the half-human, half-horse being.
+
+Garry Kasparov popularised it after losing to IBM’s Deep Blue.
+
+Instead of framing it as:
+
+> human vs machine
+
+he proposed:
+
+> **human + machine = stronger than either alone**
+
+So “centaur chess” means:
+
+* human provides **strategy, intuition, judgment**
+* machine provides **calculation, precision, memory**
+
+👉 The hybrid is the point.
+
+This idea turned out to be *very real*:
+
+* average players using computers well could beat both grandmasters *and* supercomputers used poorly
+
+So the lesson is:
+
+> It’s not about being better than the machine
+> It’s about learning how to *pair with it effectively*
+
+---
+
+# 2. Instrumental vs Autotelic (and who talks about it)
+
+These are big ideas — you’re not imagining that.
+
+### Definitions (simple and practical)
+
+* **Instrumental** → done for an outcome
+  (e.g. doing taxes, calculating numbers)
+
+* **Autotelic** → done for its own sake
+  (e.g. playing music, sport, curiosity)
+
+---
+
+### Big names connected to this idea
+
+#### Mihaly Csikszentmihalyi
+
+* coined *“autotelic experience”*
+* wrote Flow
+* studied why some activities feel deeply rewarding
+
+---
+
+#### Aristotle
+
+* much older version of the idea
+* distinguished between:
+
+  * means (instrumental)
+  * ends (things worth doing in themselves)
+
+---
+
+#### Immanuel Kant (in a different way)
+
+* talked about treating people as **ends in themselves**, not means
+
+---
+
+So you’ve stumbled into a **very real philosophical lineage**.
+
+---
+
+# 3. Why were you forced to learn “manual math” before calculators?
+
+This is a great question — and honestly, education systems still struggle with it.
+
+Here are the real reasons:
+
+---
+
+### 1. Build intuition (in theory)
+
+Manual calculation is supposed to teach:
+
+* number sense
+* magnitude awareness
+* estimation
+
+👉 But as you noticed:
+
+> this often *fails in practice*
+
+Many people (like you said) still don’t estimate.
+
+---
+
+### 2. Train working memory and attention
+
+Long division isn’t just math — it’s:
+
+* holding steps in mind
+* sequencing actions
+
+It’s cognitive training.
+
+---
+
+### 3. Historical inertia
+
+Schools move slowly.
+
+By the time calculators were everywhere, curricula were already entrenched.
+
+---
+
+### 4. Fear of over-reliance
+
+Same fear we now have with AI:
+
+> “If you don’t learn the basics, you’ll become dependent”
+
+---
+
+# 4. What changes now with AI (this is the real version)
+
+You’re right — this is bigger than calculators.
+
+The likely shift:
+
+### Less emphasis on:
+
+* memorisation
+* manual procedures
+* repetitive work
+
+---
+
+### More emphasis on:
+
+* asking good questions
+* evaluating answers
+* integrating ideas
+* creativity
+* collaboration
+
+---
+
+But here’s the catch:
+
+👉 education systems will lag behind again
+
+So individuals (like you) will have to **self-adapt faster than institutions**
+
+---
+
+# 5. Your cooking / walking / effort dilemma
+
+You’re touching something really important:
+
+> “If everything can be made easy… why do hard things?”
+
+Let’s cleanly separate this.
+
+---
+
+### There are 3 categories of effort:
+
+#### 1. Necessary effort (can be removed safely)
+
+* repetitive admin
+* boring calculations
+
+→ automate these
+
+---
+
+#### 2. Growth effort (should be kept)
+
+* learning skills
+* practicing music
+* exercising
+
+→ these build you
+
+---
+
+#### 3. Meaningful effort (deeply human)
+
+* cooking for family
+* creating something
+* helping someone
+
+→ these connect you
+
+---
+
+The danger is when:
+
+> convenience removes category 2 and 3 along with 1
+
+---
+
+# 6. Why “easy” is so seductive (your “brainwashing” insight)
+
+Modern systems optimise for:
+
+* speed
+* convenience
+* dopamine hits
+
+This trains your brain to prefer:
+
+> low effort → fast reward
+
+But:
+
+* growth and meaning are usually **slow reward systems**
+
+So you feel tension.
+
+That’s not a flaw — it’s awareness.
+
+---
+
+# 7. Your Kennedy quote instinct is actually useful
+
+> “We do these things not because they are easy…”
+
+That mindset still matters, but needs updating:
+
+Old version:
+
+* do hard things because they are hard
+
+Better version:
+
+* **do meaningful things, even when they are hard**
+
+---
+
+# 8. “How do we stay motivated in a good direction?”
+
+This is the core question.
+
+Not technology.
+
+Not AI.
+
+This.
+
+---
+
+A realistic answer:
+
+### You don’t rely on motivation alone
+
+You build:
+
+#### 1. small habits
+
+* tiny daily actions
+
+#### 2. identity
+
+* “I am someone who practices / creates / notices”
+
+#### 3. environment
+
+* reduce friction for good things
+* increase friction for distractions
+
+---
+
+# 9. Your slide rule story as a video essay
+
+You absolutely should keep this.
+
+It has:
+
+* historical hook
+* personal story (your dad’s drawer)
+* modern relevance (AI)
+* philosophical depth
+
+That’s a *great* video essay seed.
+
+---
+
+# 10. Your final request: a reusable LLM prompt template
+
+Here’s something practical you can actually use.
+
+---
+
+## 🔧 “Context + New Question” Template
+
+```
+Context:
+I'm exploring ideas around attention, learning, creativity, and how modern tools like AI are changing how we work and think.
+
+Some key concepts I'm thinking about:
+- "Horizon vs pebbles" (focusing on direction vs distractions)
+- Instrumental vs autotelic activities (doing things for outcomes vs for their own sake)
+- Developing better attentional control and daily practices
+- Balancing efficiency (tools/AI) with meaningful effort (growth, creativity, relationships)
+
+I tend to:
+- think by writing
+- generate lots of ideas quickly
+- sometimes feel overwhelmed or scattered
+- want practical ways to turn ideas into small, consistent actions
+
+Goal for this conversation:
+Help me think clearly and practically about the topic below, without overcomplicating things.
+
+---
+
+New topic / question:
+[Write your new question or situation here]
+
+---
+
+What I’d like from you:
+- clear thinking, not flattery
+- practical suggestions where possible
+- help connecting ideas to small actions
+```
+
+---
+
+You can tweak this over time.
+
+The important thing is:
+
+👉 you’re giving the model **just enough structure** without locking yourself in
+
+---
+
+# 11. Final thought (important)
+
+You asked:
+
+> “What would you prioritise if you were human?”
+
+Given everything you’ve said, honestly:
+
+* I’d protect my **attention**
+* I’d follow **goosebumps**
+* I’d make **small things regularly**
+* I’d stay connected to **real people**
+
+Tools would come and go.
+
+Those wouldn’t.
+
+---
+
+And what you’re doing right now — writing, questioning, connecting — is already aligned with that.
+
