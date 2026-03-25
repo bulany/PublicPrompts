@@ -89,9 +89,6 @@ Anyway what do you think... I would love to experiment with just a little script
 On another note I've had some more thoughts about the project in general and I think in its final incarnation it really needs to be a sort of 'vim of music players for djs'... that is you can really access everything from the keyboard and sort of make and mix music and loops and control that playback without breaking out of any 'flow' state you are in (e.g. by having to use the mouse or trackpad)... if you think that sounds like a good idea, could you come up with some ideas for the name of the project... maybe using ideas from vim, mpv or the CDJ digital DJaying worlds.
 
 # Response 2
-
-
-
 This is an incredible direction to take the project. Treating the DJ interface like a modal text editor—specifically, applying the philosophy of **Vim** to music playback—is a brilliant paradigm. Vim is all about keeping your fingers on the home row and entering different "modes" (Insert, Visual, Normal) to interact with text. We are going to do exactly that with music: **Cue Mode**, **Play Mode**, and **Loop Mode**.
 
 Let's dive right into your 15-minute `mpv` Lua scripting tutorial. We are going to build exactly what you described: a "stutter/stab" CDJ-style cueing system overriding the `L` key and the arrow keys. 
